@@ -20,4 +20,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0125-valid-palindrome) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2231-find-first-palindromic-string-in-the-array) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
