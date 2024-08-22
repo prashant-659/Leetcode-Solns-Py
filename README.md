@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0039-combination-sum) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0784-insert-into-a-binary-search-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
