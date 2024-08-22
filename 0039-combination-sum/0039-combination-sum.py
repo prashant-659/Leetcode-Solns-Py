@@ -1,6 +1,6 @@
 class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
-        res=[] #backtrack o(2^t)
+        res=[] #backtrack o(2^target)
 
         def dfs(i, curr, total): 
             if total==target:
@@ -21,4 +21,4 @@ class Solution:
 
 
 
-        return 
+     
