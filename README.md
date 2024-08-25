@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0035-search-insert-position) |
+| [0374-guess-number-higher-or-lower](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0374-guess-number-higher-or-lower) |
 ## Two Pointers
 |  |
 | ------- |
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0145-binary-tree-postorder-traversal) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
