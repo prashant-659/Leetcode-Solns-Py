@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0039-combination-sum) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0283-move-zeroes) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0055-jump-game) |
 ## Backtracking
 |  |
