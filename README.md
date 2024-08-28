@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0055-jump-game) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0283-move-zeroes) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0070-climbing-stairs) |
 | [0664-strange-printer](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0664-strange-printer) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -165,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0883-car-fleet) |
