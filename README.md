@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0125-valid-palindrome) |
 | [0541-reverse-string-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0070-climbing-stairs) |
 | [0664-strange-printer](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0664-strange-printer) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0039-combination-sum) |
 ## Binary Search Tree
 |  |
