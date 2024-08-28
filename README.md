@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2551-apply-operations-to-an-array) |
 | [3226-minimum-number-game](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Binary Search
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0268-missing-number) |
 | [0592-fraction-addition-and-subtraction](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0592-fraction-addition-and-subtraction) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Sorting
 |  |
 | ------- |
