@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0268-missing-number) |
