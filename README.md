@@ -200,12 +200,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0347-top-k-frequent-elements) |
 | [1325-path-with-maximum-probability](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1325-path-with-maximum-probability) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0023-merge-k-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0143-reorder-list) |
 ## Recursion
@@ -272,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0567-permutation-in-string) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
