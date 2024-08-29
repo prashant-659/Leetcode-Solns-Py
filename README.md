@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0074-search-a-2d-matrix) |
+| [0084-largest-rectangle-in-histogram](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0169-majority-element) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0145-binary-tree-postorder-traversal) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0883-car-fleet) |
