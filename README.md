@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0347-top-k-frequent-elements) |
 | [0503-next-greater-element-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0739-daily-temperatures) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0374-guess-number-higher-or-lower) |
 | [0907-koko-eating-bananas](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0907-koko-eating-bananas) |
 ## Two Pointers
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0287-find-the-duplicate-number) |
 | [0541-reverse-string-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0567-permutation-in-string) |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0476-number-complement) |
 ## Greedy
 |  |
