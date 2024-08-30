@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0513-find-bottom-left-tree-value) |
+| [0543-diameter-of-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0543-diameter-of-binary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0513-find-bottom-left-tree-value) |
+| [0543-diameter-of-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0543-diameter-of-binary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0513-find-bottom-left-tree-value) |
+| [0543-diameter-of-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0543-diameter-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Dynamic Programming
 |  |
