@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0287-find-the-duplicate-number) |
+| [0371-sum-of-two-integers](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0371-sum-of-two-integers) |
 | [0476-number-complement](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0476-number-complement) |
 ## Greedy
 |  |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0371-sum-of-two-integers) |
 | [0564-find-the-closest-palindrome](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0592-fraction-addition-and-subtraction) |
 | [2812-find-the-maximum-achievable-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2812-find-the-maximum-achievable-number) |
