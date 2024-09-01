@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0070-climbing-stairs) |
+| [0131-palindrome-partitioning](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0131-palindrome-partitioning) |
 | [0664-strange-printer](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0664-strange-printer) |
 ## Simulation
 |  |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0131-palindrome-partitioning) |
 ## Binary Search Tree
 |  |
 | ------- |
