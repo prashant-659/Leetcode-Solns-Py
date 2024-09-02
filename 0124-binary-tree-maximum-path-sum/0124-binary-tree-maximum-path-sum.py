@@ -7,21 +7,38 @@
 class Solution:
     def maxPathSum(self, root: Optional[TreeNode]) -> int:
 
-        res=root.val
+        # res=root.val
+        #S - O(h)
+        #T - O(n)
+        # def dfs(root):
+        #     if not root:
+        #         return 0
+            
+        #     left_max=dfs(root.left)
+        #     right_max=dfs(root.right)
+
+        #     nonlocal res
+
+        #     res=max(res,root.val+left_max+right_max)
+        #     return max(0,root.val+max(left_max, right_max))
+        # dfs(root)
+        # return res
+        
+        res=[root.val]
 
         def dfs(root):
-            curr_sum=0
             if not root:
                 return 0
             
-            
-            left_max=dfs(root.left)
-            right_max=dfs(root.right)
+            leftMax=dfs(root.left)
+            rightMax=dfs(root.right)
 
-            nonlocal res
+            leftMax=max(leftMax,0)
+            rightMax=max(rightMax,0)
 
-            res=max(res,root.val+left_max+right_max)
-            return max(0,root.val+max(left_max, right_max))
+            res[0]=max(res[0],root.val+leftMax+rightMax)
+
+            return root.val+max(leftMax, rightMax)
+
         dfs(root)
-        return res
-            
+        return res[0]
