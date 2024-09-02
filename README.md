@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0907-koko-eating-bananas) |
+| [1127-last-stone-weight](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1127-last-stone-weight) |
 | [1325-path-with-maximum-probability](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1325-path-with-maximum-probability) |
 | [1833-find-the-highest-altitude](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1833-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0347-top-k-frequent-elements) |
+| [1127-last-stone-weight](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1127-last-stone-weight) |
 | [1325-path-with-maximum-probability](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1325-path-with-maximum-probability) |
 | [2803-modify-graph-edge-weights](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2803-modify-graph-edge-weights) |
 | [3226-minimum-number-game](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3226-minimum-number-game) |
