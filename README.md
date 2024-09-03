@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0268-missing-number) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0212-word-search-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0541-reverse-string-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0131-palindrome-partitioning) |
+| [0212-word-search-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0212-word-search-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0212-word-search-ii) |
 | [2035-count-sub-islands](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Linked List
@@ -441,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0212-word-search-ii) |
 ## Queue
 |  |
 | ------- |
