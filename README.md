@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0078-subsets) |
