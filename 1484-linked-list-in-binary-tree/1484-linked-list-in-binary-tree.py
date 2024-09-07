@@ -16,13 +16,7 @@ class Solution:
         if not root: return False
         return (
             self.isSubPath(head,root.left) or
-            self.isSubPath(head,root.right)
-
-        )
-        
-        
-        curr=head
-        visit=[]
+            self.isSubPath(head,root.right))
 
     def dfs(self,curr,node):
             if not curr:
