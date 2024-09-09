@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2411-spiral-matrix-iv) |
 | [2551-apply-operations-to-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2551-apply-operations-to-an-array) |
 | [3226-minimum-number-game](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3226-minimum-number-game) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3321-type-of-triangle](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3321-type-of-triangle) |
 | [3398-make-a-square-with-the-same-color](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3398-make-a-square-with-the-same-color) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1023-time-based-key-value-store](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1023-time-based-key-value-store) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3519-find-the-number-of-winning-players](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3519-find-the-number-of-winning-players) |
 ## Divide and Conquer
 |  |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0347-top-k-frequent-elements) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3519-find-the-number-of-winning-players](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3519-find-the-number-of-winning-players) |
 ## Quickselect
 |  |
