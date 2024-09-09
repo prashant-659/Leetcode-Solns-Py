@@ -579,4 +579,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3398-make-a-square-with-the-same-color](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3398-make-a-square-with-the-same-color) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
