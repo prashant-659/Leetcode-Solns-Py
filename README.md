@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0078-subsets) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0059-spiral-matrix-ii) |
 | [0592-fraction-addition-and-subtraction](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0036-valid-sudoku) |
+| [0059-spiral-matrix-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0130-surrounded-regions) |
