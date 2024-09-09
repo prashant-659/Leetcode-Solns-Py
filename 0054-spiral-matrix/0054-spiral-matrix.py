@@ -1,6 +1,7 @@
 class Solution:
     def spiralOrder(self, matrix: List[List[int]]) -> List[int]:
         res=[]
+        size=(len(matrix[0])*len(matrix))
         left,right=0,len(matrix[0])
         top, bottom=0,len(matrix)
         
@@ -14,7 +15,9 @@ class Solution:
             for r in range(top, bottom):
                 res.append(matrix[r][right-1])
             right-=1
-            if not (left < right and top< bottom):
+            # if not (left < right and top< bottom):
+            #break
+            if len(res)==size:
                 break
             #fill every val in bottom row (reverse order)
             for c in range(right-1, left-1,-1):
