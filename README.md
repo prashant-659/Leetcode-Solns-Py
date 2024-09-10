@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0169-majority-element) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0212-word-search-ii) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0091-decode-ways) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0300-longest-increasing-subsequence) |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0208-implement-trie-prefix-tree) |
@@ -523,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0139-word-break) |
 ## Union Find
 |  |
 | ------- |
@@ -555,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0212-word-search-ii) |
