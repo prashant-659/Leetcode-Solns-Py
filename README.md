@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0503-next-greater-element-ii) |
 | [0695-max-area-of-island](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0739-daily-temperatures) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0647-palindromic-substrings) |
 | [0664-strange-printer](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0664-strange-printer) |
 | [0747-min-cost-climbing-stairs](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0747-min-cost-climbing-stairs) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0212-word-search-ii) |
+| [0494-target-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0494-target-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
