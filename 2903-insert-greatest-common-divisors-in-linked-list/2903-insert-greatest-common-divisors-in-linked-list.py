@@ -5,11 +5,15 @@
 #         self.next = next
 class Solution:
     def insertGreatestCommonDivisors(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        def GCD(x, y):
+            while(y):
+                x, y = y, x % y
+            return abs(x)
         if head.next==None:
             return head
         prev,curr=head,head.next
         while curr:
-            gcd_node=ListNode(gcd(prev.val,curr.val))
+            gcd_node=ListNode(GCD(prev.val,curr.val))
             temp=prev.next
             prev.next=gcd_node
             gcd_node.next=curr
@@ -18,14 +22,6 @@ class Solution:
             curr=curr.next
         return head
 
-
-
-
-
-
-        def GCD(x, y):
-            while(y):
-                x, y = y, x % y
-            return abs(x)
+        
 
         
