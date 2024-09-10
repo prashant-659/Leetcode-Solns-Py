@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0131-palindrome-partitioning) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0091-decode-ways) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0198-house-robber) |
