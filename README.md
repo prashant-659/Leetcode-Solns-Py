@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3515-find-if-digit-game-can-be-won](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3519-find-the-number-of-winning-players](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3519-find-the-number-of-winning-players) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3533-snake-in-matrix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3533-snake-in-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2886-faulty-keyboard](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2886-faulty-keyboard) |
 | [3379-score-of-a-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3379-score-of-a-string) |
+| [3533-snake-in-matrix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3533-snake-in-matrix) |
 ## Tree
 |  |
 | ------- |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2551-apply-operations-to-an-array) |
 | [2886-faulty-keyboard](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2886-faulty-keyboard) |
 | [3226-minimum-number-game](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3226-minimum-number-game) |
+| [3533-snake-in-matrix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3533-snake-in-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
