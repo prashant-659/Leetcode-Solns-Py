@@ -9,7 +9,7 @@ class Solution:
         res=0
         while j<len(fruits):
             mp[fruits[j]]=1+mp.get(fruits[j],0) 
-            while len(mp)>2:
+            if len(mp)>2:
                 mp[fruits[i]]-=1
                 if mp[fruits[i]]==0:
                     del mp[fruits[i]]
