@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0883-car-fleet) |
 | [0906-walking-robot-simulation](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0907-koko-eating-bananas) |
+| [0940-fruit-into-baskets](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0940-fruit-into-baskets) |
 | [1014-k-closest-points-to-origin](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1046-max-consecutive-ones-iii) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0567-permutation-in-string) |
 | [0906-walking-robot-simulation](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0906-walking-robot-simulation) |
+| [0940-fruit-into-baskets](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0940-fruit-into-baskets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1023-time-based-key-value-store](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1023-time-based-key-value-store) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -585,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0643-maximum-average-subarray-i) |
+| [0940-fruit-into-baskets](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1046-max-consecutive-ones-iii) |
 | [2478-longest-nice-subarray](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
