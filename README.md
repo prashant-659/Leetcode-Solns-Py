@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2155-find-missing-observations) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2411-spiral-matrix-iv](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2411-spiral-matrix-iv) |
+| [2478-longest-nice-subarray](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2478-longest-nice-subarray) |
 | [2551-apply-operations-to-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2478-longest-nice-subarray](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2478-longest-nice-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1046-max-consecutive-ones-iii) |
+| [2478-longest-nice-subarray](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Merge Sort
