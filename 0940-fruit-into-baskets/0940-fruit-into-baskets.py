@@ -2,8 +2,8 @@ class Solution:
     def totalFruit(self, fruits: List[int]) -> int:
         if not fruits:
             return 0
-        if len(fruits)==1:
-            return 1 
+        # if len(fruits)==1:
+        #     return 1 
         mp=defaultdict()
         i,j=0,0
         res=0
