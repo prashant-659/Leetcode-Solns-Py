@@ -10,15 +10,32 @@ class Solution:
         #         res=max(curr,res)
         #     else:
         #         curr=0
-            
-               
-
         # return res
-        target=max(nums)
-        size=0
-        res=0
+
+        #find max amd increse size if they are consecutive
+        # target=max(nums)
+        # size=0
+        # res=0
+        # for n in nums:
+        #     if n==target:
+        #         size+=1
+        #     else:
+        #         size=0
+        #     res=max(res,size)
+        # return res
+
+        #NeetCode IO
+        #1 If n< curr_max, n & curr_max < curr_max
+        #1 If n== curr_max, n & curr_max = curr_max
+        #1 If n> curr_max, n & curr_max < curr_max
+        size, res=0,0
+        cur_max=0
         for n in nums:
-            if n==target:
+            if n>cur_max:
+                cur_max=n
+                size=1
+                res=0
+            elif n==cur_max:
                 size+=1
             else:
                 size=0
