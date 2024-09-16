@@ -3,14 +3,24 @@ class Solution:
         """
         Do not return anything, modify matrix in-place instead.
         """
-        R=len(matrix)
-        C=len(matrix[0])
-        for r in range(R):
-            for c in range(r, C):
-                temp=matrix[r][c]
-                matrix[r][c]=matrix[c][r]
-                matrix[c][r]=temp
-        for r in matrix:
-            r.reverse()
-        
-        
+        l, r = 0, len(matrix) - 1
+        while l < r:
+            for i in range(r - l):
+                top, bottom = l, r
+
+                # save the topleft
+                topLeft = matrix[top][l + i]
+
+                # move bottom left into top left
+                matrix[top][l + i] = matrix[bottom - i][l]
+
+                # move bottom right into bottom left
+                matrix[bottom - i][l] = matrix[bottom][r - i]
+
+                # move top right into bottom right
+                matrix[bottom][r - i] = matrix[top + i][r]
+
+                # move top left into top right
+                matrix[top + i][r] = topLeft
+            r -= 1
+            l += 1
