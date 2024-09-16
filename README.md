@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0035-search-insert-position) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
