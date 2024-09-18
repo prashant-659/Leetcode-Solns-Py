@@ -18,8 +18,8 @@ class Solution:
         #     res=res+str(num[i])
         # return res
 
-        if max(nums)==0:
-            return "0"
+        # if max(nums)==0:
+        #     return "0"
         for i , n in enumerate(nums):
             nums[i]=str(n)
         def compare(n1,n2):
@@ -29,4 +29,4 @@ class Solution:
                 return 1
         nums=sorted(nums,key= cmp_to_key(compare))
 
-        return "".join(nums)
+        return str(int("".join(nums)))
