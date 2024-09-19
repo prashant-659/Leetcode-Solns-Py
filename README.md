@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0091-decode-ways) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0067-add-binary) |
 | [0592-fraction-addition-and-subtraction](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0592-fraction-addition-and-subtraction) |
 | [0657-robot-return-to-origin](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0657-robot-return-to-origin) |
 | [0906-walking-robot-simulation](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0906-walking-robot-simulation) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0136-single-number) |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0202-happy-number) |
