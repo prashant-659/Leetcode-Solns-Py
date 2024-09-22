@@ -689,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0212-word-search-ii) |
 | [0386-lexicographical-numbers](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0386-lexicographical-numbers) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Queue
 |  |
 | ------- |
