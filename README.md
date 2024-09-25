@@ -466,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0739-daily-temperatures) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -629,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0232-implement-queue-using-stacks](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0937-online-stock-span) |
@@ -709,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
