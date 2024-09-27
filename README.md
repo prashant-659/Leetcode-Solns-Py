@@ -775,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1827-invalid-tweets) |
+| [1877-find-followers-count](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1877-find-followers-count) |
 | [1908-recyclable-and-low-fat-products](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1908-recyclable-and-low-fat-products) |
 | [2024-calculate-special-bonus](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2024-calculate-special-bonus) |
 | [2087-confirmation-rate](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2087-confirmation-rate) |
