@@ -778,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1317-monthly-transactions-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1390-average-selling-price) |
+| [1480-movie-rating](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1480-movie-rating) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1827-invalid-tweets) |
