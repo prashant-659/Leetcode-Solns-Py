@@ -52,25 +52,21 @@ class Solution:
         #     i+=1
 
         # return count
-        vowels = {'a', 'e', 'i', 'o', 'u'}  # Set of vowels for quick lookup
+        vowels = {'a', 'e', 'i', 'o', 'u'}  
         n = len(word)
-        count = 0  # Total number of valid substrings
+        count = 0  
 
-        # Iterate through all possible starting points for substrings
+       
         for start in range(n):
-            # Set to track which vowels are present in the current substring
             vowels_found = set()
-            consonant_count = 0  # Number of consonants in the current substring
+            consonant_count = 0  
 
-            # Expand the substring to include more characters
             for end in range(start, n):
                 char = word[end]
                 
-                # Check if it's a vowel and add it to the set
                 if char in vowels:
                     vowels_found.add(char)
                 else:
-                    # If it's a consonant, increment the consonant count
                     consonant_count += 1
 
                     if consonant_count>k:
