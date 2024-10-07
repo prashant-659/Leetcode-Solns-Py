@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2755-extra-characters-in-a-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2886-faulty-keyboard](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2886-faulty-keyboard) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3379-score-of-a-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3379-score-of-a-string) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2411-spiral-matrix-iv) |
 | [2551-apply-operations-to-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2551-apply-operations-to-an-array) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2886-faulty-keyboard](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2886-faulty-keyboard) |
 | [3226-minimum-number-game](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3226-minimum-number-game) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3347-distribute-elements-into-two-arrays-i) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Interactive
 |  |
 | ------- |
