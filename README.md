@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1484-linked-list-in-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1484-linked-list-in-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2384-root-equals-sum-of-children) |
 ## Dynamic Programming
 |  |
 | ------- |
