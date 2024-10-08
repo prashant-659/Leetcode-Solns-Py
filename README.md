@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3206-find-common-elements-between-two-arrays](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3226-minimum-number-game](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3226-minimum-number-game) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3272-find-the-grid-of-region-average](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3272-find-the-grid-of-region-average) |
 | [3321-type-of-triangle](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3321-type-of-triangle) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3347-distribute-elements-into-two-arrays-i) |
@@ -653,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2411-spiral-matrix-iv) |
+| [3272-find-the-grid-of-region-average](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3272-find-the-grid-of-region-average) |
 | [3398-make-a-square-with-the-same-color](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3398-make-a-square-with-the-same-color) |
 ## Linked List
 |  |
