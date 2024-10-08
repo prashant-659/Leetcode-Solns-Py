@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-count-good-nodes-in-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2035-count-sub-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2121-find-if-path-exists-in-graph) |
+| [3561-remove-methods-from-project](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3561-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-count-good-nodes-in-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2035-count-sub-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2121-find-if-path-exists-in-graph) |
+| [3561-remove-methods-from-project](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3561-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -722,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-min-cost-to-connect-all-points](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1706-min-cost-to-connect-all-points) |
 | [2121-find-if-path-exists-in-graph](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2121-find-if-path-exists-in-graph) |
 | [2803-modify-graph-edge-weights](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2803-modify-graph-edge-weights) |
+| [3561-remove-methods-from-project](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3561-remove-methods-from-project) |
 ## Shortest Path
 |  |
 | ------- |
