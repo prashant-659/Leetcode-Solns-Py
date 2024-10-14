@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0695-max-area-of-island) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0876-hand-of-straights](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0876-hand-of-straights) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0435-non-overlapping-intervals) |
 | [0539-minimum-time-difference](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0539-minimum-time-difference) |
+| [0621-task-scheduler](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0876-hand-of-straights](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0883-car-fleet) |
@@ -588,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0432-all-oone-data-structure) |
 | [0560-subarray-sum-equals-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0876-hand-of-straights](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0876-hand-of-straights) |
 | [0906-walking-robot-simulation](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0906-walking-robot-simulation) |
@@ -629,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1014-k-closest-points-to-origin) |
@@ -650,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0621-task-scheduler) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1786-count-the-number-of-consistent-strings) |
