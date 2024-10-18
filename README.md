@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2155-find-missing-observations) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2411-spiral-matrix-iv](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2411-spiral-matrix-iv) |
 | [2478-longest-nice-subarray](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2478-longest-nice-subarray) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2478-longest-nice-subarray](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2478-longest-nice-subarray) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0494-target-sum) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -884,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3398-make-a-square-with-the-same-color](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3398-make-a-square-with-the-same-color) |
 ## Database
 |  |
