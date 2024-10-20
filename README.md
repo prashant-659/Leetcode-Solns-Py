@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0079-word-search) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0067-add-binary) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0066-plus-one) |
