@@ -12,11 +12,11 @@ class Solution:
             else:
                 if i>0 and j>0:
                     dp[i][j]=grid[i][j]+min(min_step(i-1,j),min_step(i,j-1))
-                    return dp[i][j]
+                    
                 elif i==0 and j>0:
                     dp[i][j]=grid[i][j]+min_step(i,j-1)
-                    return dp[i][j]
+                    
                 else:
                     dp[i][j]=grid[i][j]+min_step(i-1,j)
-                    return dp[i][j]
+                return dp[i][j]
         return min_step(m-1,n-1)
