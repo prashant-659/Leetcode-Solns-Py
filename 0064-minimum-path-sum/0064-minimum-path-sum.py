@@ -9,14 +9,14 @@ class Solution:
             if dp[i][j]!=-1:
                 return dp[i][j]
             
+        
+            if i>0 and j>0:
+                dp[i][j]=grid[i][j]+min(min_step(i-1,j),min_step(i,j-1))
+                
+            elif i==0 and j>0:
+                dp[i][j]=grid[i][j]+min_step(i,j-1)
+                
             else:
-                if i>0 and j>0:
-                    dp[i][j]=grid[i][j]+min(min_step(i-1,j),min_step(i,j-1))
-                    
-                elif i==0 and j>0:
-                    dp[i][j]=grid[i][j]+min_step(i,j-1)
-                    
-                else:
-                    dp[i][j]=grid[i][j]+min_step(i-1,j)
-                return dp[i][j]
+                dp[i][j]=grid[i][j]+min_step(i-1,j)
+            return dp[i][j]
         return min_step(m-1,n-1)
