@@ -1,9 +1,13 @@
 class Solution:
     def plusOne(self, digits: List[int]) -> List[int]:
-        n=0
-        for i in range(len(digits)):
-            n=n*10+digits[i]
-        r=n+1
-        arr=[int(x) for x in str(r)]
-        return arr
+        for i in range(len(digits)-1,-1,-1):
+            if digits[i]==9:
+                digits[i]=0
+                if i==0:
+                    digits.insert(0,1)
+                    return digits
+            
+            else:
+                digits[i]+=1
+                return digits
             
