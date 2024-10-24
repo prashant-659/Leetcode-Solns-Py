@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0240-search-a-2d-matrix-ii) |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0202-happy-number) |
