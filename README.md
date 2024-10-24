@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2551-apply-operations-to-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2018-minimum-space-wasted-from-packaging](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2018-minimum-space-wasted-from-packaging) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3195-separate-black-and-white-balls) |
 ## Backtracking
@@ -586,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2018-minimum-space-wasted-from-packaging](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2018-minimum-space-wasted-from-packaging) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3226-minimum-number-game](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3226-minimum-number-game) |
@@ -816,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2018-minimum-space-wasted-from-packaging](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2018-minimum-space-wasted-from-packaging) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Design
 |  |
 | ------- |
