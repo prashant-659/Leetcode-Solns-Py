@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2551-apply-operations-to-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2384-root-equals-sum-of-children) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-count-good-nodes-in-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2035-count-sub-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2121-find-if-path-exists-in-graph) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3561-remove-methods-from-project](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3561-remove-methods-from-project) |
 ## Breadth-First Search
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-count-good-nodes-in-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2035-count-sub-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2121-find-if-path-exists-in-graph) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3561-remove-methods-from-project](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3561-remove-methods-from-project) |
@@ -419,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2384-root-equals-sum-of-children) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Dynamic Programming
