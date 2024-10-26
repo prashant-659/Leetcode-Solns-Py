@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2058-concatenation-of-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2145-grid-game](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2145-grid-game) |
 | [2155-find-missing-observations](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2155-find-missing-observations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -802,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2035-count-sub-islands](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2145-grid-game](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2145-grid-game) |
 | [2411-spiral-matrix-iv](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2411-spiral-matrix-iv) |
 | [3272-find-the-grid-of-region-average](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3272-find-the-grid-of-region-average) |
 | [3398-make-a-square-with-the-same-color](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3398-make-a-square-with-the-same-color) |
@@ -850,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1833-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2018-minimum-space-wasted-from-packaging](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2018-minimum-space-wasted-from-packaging) |
+| [2145-grid-game](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2145-grid-game) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Design
