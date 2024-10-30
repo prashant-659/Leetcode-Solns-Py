@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0125-valid-palindrome) |
+| [0142-linked-list-cycle-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0202-happy-number) |
@@ -706,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0139-word-break) |
+| [0142-linked-list-cycle-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0202-happy-number) |
@@ -845,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0138-copy-list-with-random-pointer) |
+| [0142-linked-list-cycle-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0146-lru-cache) |
 | [0234-palindrome-linked-list](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0234-palindrome-linked-list) |
