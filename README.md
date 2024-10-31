@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1534-minimum-number-of-frogs-croaking](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -808,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0621-task-scheduler) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1534-minimum-number-of-frogs-croaking](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2494-sum-of-prefix-scores-of-strings) |
