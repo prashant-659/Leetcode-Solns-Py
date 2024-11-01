@@ -624,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2630-alternating-digit-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2630-alternating-digit-sum) |
 | [2812-find-the-maximum-achievable-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2812-find-the-maximum-achievable-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3321-type-of-triangle) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3515-find-if-digit-game-can-be-won) |
