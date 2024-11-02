@@ -1,7 +1,5 @@
 class Solution:
     def isCircularSentence(self, s: str) -> bool:
-        if not s:
-            return False
         f1=s[0]
         l1=s[-1]
         flag=False
