@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0768-partition-labels) |
+| [0812-rotate-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1023-time-based-key-value-store](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1023-time-based-key-value-store) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -1002,6 +1003,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0572-subtree-of-another-tree) |
+| [0812-rotate-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
