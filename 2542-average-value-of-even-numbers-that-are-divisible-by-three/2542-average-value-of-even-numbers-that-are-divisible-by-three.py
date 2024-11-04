@@ -3,7 +3,7 @@ class Solution:
         count=0
         val=0
         for n in nums:
-            if n%2==0 and n%3==0:
+            if n%6==0:
                 val+=n
                 count+=1
         if not count:
