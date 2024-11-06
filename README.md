@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3226-minimum-number-game](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3226-minimum-number-game) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3272-find-the-grid-of-region-average](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3272-find-the-grid-of-region-average) |
+| [3291-find-if-array-can-be-sorted](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3291-find-if-array-can-be-sorted) |
 | [3321-type-of-triangle](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3321-type-of-triangle) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3347-distribute-elements-into-two-arrays-i) |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2478-longest-nice-subarray](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2478-longest-nice-subarray) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3291-find-if-array-can-be-sorted](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3291-find-if-array-can-be-sorted) |
 ## Greedy
 |  |
 | ------- |
@@ -686,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3226-minimum-number-game](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3226-minimum-number-game) |
+| [3291-find-if-array-can-be-sorted](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3291-find-if-array-can-be-sorted) |
 | [3321-type-of-triangle](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3321-type-of-triangle) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
