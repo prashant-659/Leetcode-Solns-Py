@@ -517,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0258-add-digits) |
 | [0592-fraction-addition-and-subtraction](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0592-fraction-addition-and-subtraction) |
 | [0657-robot-return-to-origin](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0657-robot-return-to-origin) |
 | [0906-walking-robot-simulation](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0906-walking-robot-simulation) |
@@ -630,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0202-happy-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0241-different-ways-to-add-parentheses) |
+| [0258-add-digits](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0319-bulb-switcher) |
 | [0371-sum-of-two-integers](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0371-sum-of-two-integers) |
@@ -1158,6 +1160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0258-add-digits) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3593-find-the-maximum-factor-score-of-array) |
 ## Brainteaser
