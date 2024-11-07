@@ -641,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0202-happy-number) |
+| [0223-rectangle-area](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0223-rectangle-area) |
 | [0241-different-ways-to-add-parentheses](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0268-missing-number) |
@@ -1096,6 +1097,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0223-rectangle-area) |
 | [1014-k-closest-points-to-origin](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1014-k-closest-points-to-origin) |
 ## Doubly-Linked List
 |  |
