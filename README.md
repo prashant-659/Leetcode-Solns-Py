@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1833-find-the-highest-altitude) |
 | [1923-sentence-similarity-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1923-sentence-similarity-iii) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1940-maximum-xor-for-each-query](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2018-minimum-space-wasted-from-packaging](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2018-minimum-space-wasted-from-packaging) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2026-merge-triplets-to-form-target-triplet) |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1940-maximum-xor-for-each-query](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -967,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1694-make-sum-divisible-by-p) |
 | [1833-find-the-highest-altitude](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1833-find-the-highest-altitude) |
+| [1940-maximum-xor-for-each-query](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2018-minimum-space-wasted-from-packaging](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2018-minimum-space-wasted-from-packaging) |
 | [2145-grid-game](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2145-grid-game) |
