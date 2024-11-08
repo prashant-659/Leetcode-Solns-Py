@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1325-path-with-maximum-probability) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1395-minimum-time-visiting-all-points](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1395-minimum-time-visiting-all-points) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1435-xor-queries-of-a-subarray](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1435-xor-queries-of-a-subarray) |
@@ -665,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1014-k-closest-points-to-origin) |
 | [1070-convert-to-base-2](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1070-convert-to-base-2) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1395-minimum-time-visiting-all-points](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1395-minimum-time-visiting-all-points) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2155-find-missing-observations](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2155-find-missing-observations) |
@@ -1108,6 +1110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0223-rectangle-area](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0223-rectangle-area) |
 | [1014-k-closest-points-to-origin](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1014-k-closest-points-to-origin) |
+| [1395-minimum-time-visiting-all-points](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1395-minimum-time-visiting-all-points) |
 ## Doubly-Linked List
 |  |
 | ------- |
