@@ -23,9 +23,27 @@
 --     GROUP BY managerId 
 --     HAVING COUNT(*) >= 5)
 
-SELECT a.name 
-FROM Employee a 
-JOIN Employee b ON a.id = b.managerId 
-GROUP BY b.managerId 
-HAVING COUNT(*) >= 5
+-- SELECT a.name 
+-- FROM Employee a 
+-- JOIN Employee b ON a.id = b.managerId 
+-- GROUP BY b.managerId 
+-- HAVING COUNT(*) >= 5
+
+
+
+
+
+
+select name from(
+select m.managerId, e.name from employee e
+join employee m
+on e.id=m.managerId
+group by managerid
+having count(m.managerId)>=5) ans;
+
+
+
+
+
+
 
