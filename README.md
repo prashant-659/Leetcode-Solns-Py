@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2145-grid-game) |
 | [2155-find-missing-observations](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2155-find-missing-observations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2018-minimum-space-wasted-from-packaging](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2018-minimum-space-wasted-from-packaging) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2586-longest-square-streak-in-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2586-longest-square-streak-in-an-array) |
 | [2716-prime-subtraction-operation](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2716-prime-subtraction-operation) |
@@ -735,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2018-minimum-space-wasted-from-packaging](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2018-minimum-space-wasted-from-packaging) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2538-minimum-cost-to-make-array-equal) |
