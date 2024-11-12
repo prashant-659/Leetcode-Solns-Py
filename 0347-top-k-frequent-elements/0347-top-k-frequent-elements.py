@@ -25,3 +25,10 @@ class Solution:
         #     mapped[val]=
             
         
+        ct=Counter(nums)
+        ct.sort(key=lambda x: x.values(),reverse=True)
+        res=list(ct.keys())
+        res=[]
+        return res[0:k]
+
+
