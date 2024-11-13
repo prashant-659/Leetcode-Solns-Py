@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2154-minimum-moves-to-convert-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2154-minimum-moves-to-convert-string) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -629,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2089-maximum-matrix-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2154-minimum-moves-to-convert-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2154-minimum-moves-to-convert-string) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2538-minimum-cost-to-make-array-equal) |
