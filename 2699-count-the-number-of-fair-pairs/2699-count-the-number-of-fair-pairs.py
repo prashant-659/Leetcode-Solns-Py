@@ -16,7 +16,7 @@ class Solution:
                     r=m-1
                 else:
                     l=m+1
-            return r
+            return l
 
         r=len(nums)-1
         for i in range(len(nums)):
