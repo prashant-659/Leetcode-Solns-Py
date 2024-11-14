@@ -415,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0332-reconstruct-itinerary](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0332-reconstruct-itinerary) |
 | [0386-lexicographical-numbers](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0463-island-perimeter) |
@@ -1079,6 +1080,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0210-course-schedule-ii) |
+| [0332-reconstruct-itinerary](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0332-reconstruct-itinerary) |
 | [0684-redundant-connection](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -1322,4 +1324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0948-sort-an-array) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
