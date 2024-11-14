@@ -1,17 +1,11 @@
 class Solution:
     def minimizedMaximum(self, n: int, quantities: List[int]) -> int:
-        l,r=1,max(quantities)
+        l,r=0,max(quantities)
 
-        res=r
-        while l<=r:
-            k=(l+r)//2
-            hours=0
-            for p in quantities:
-                hours+=math.ceil(p/k)
-
-            if hours<=n:       
-                res=min(res,k)
-                r=k-1
+        while l+1<r:
+            m=(l+r)//2
+            if sum(ceil(i/m) for i in quantities)<=n:
+                r=m
             else:
-                l=k+1
-        return res
+                l=m
+        return r 
