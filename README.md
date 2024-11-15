@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0318-maximum-product-of-word-lengths) |
 | [0322-coin-change](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0376-wiggle-subsequence](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0300-longest-increasing-subsequence) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0540-single-element-in-a-sorted-array) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0541-reverse-string-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0567-permutation-in-string) |
@@ -756,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0435-non-overlapping-intervals) |
 | [0539-minimum-time-difference](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0539-minimum-time-difference) |
@@ -862,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0387-first-unique-character-in-a-string) |
 | [0432-all-oone-data-structure](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0432-all-oone-data-structure) |
 | [0560-subarray-sum-equals-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0560-subarray-sum-equals-k) |
