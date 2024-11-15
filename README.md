@@ -615,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0318-maximum-product-of-word-lengths) |
+| [0342-power-of-four](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0371-sum-of-two-integers) |
 | [0476-number-complement](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0476-number-complement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -719,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0319-bulb-switcher) |
+| [0342-power-of-four](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0371-sum-of-two-integers) |
 | [0539-minimum-time-difference](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0564-find-the-closest-palindrome) |
@@ -1056,6 +1058,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0241-different-ways-to-add-parentheses) |
+| [0342-power-of-four](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0342-power-of-four) |
 | [0795-k-th-symbol-in-grammar](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0795-k-th-symbol-in-grammar) |
 | [1197-parsing-a-boolean-expression](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1667-find-kth-bit-in-nth-binary-string) |
