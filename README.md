@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0287-find-the-duplicate-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0541-reverse-string-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0318-maximum-product-of-word-lengths](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0318-maximum-product-of-word-lengths) |
+| [0345-reverse-vowels-of-a-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0387-first-unique-character-in-a-string) |
 | [0468-validate-ip-address](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0468-validate-ip-address) |
 | [0539-minimum-time-difference](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0539-minimum-time-difference) |
