@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0876-hand-of-straights) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0883-car-fleet](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0883-car-fleet) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0940-fruit-into-baskets) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0731-my-calendar-ii) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1046-max-consecutive-ones-iii) |
@@ -951,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1127-last-stone-weight) |
@@ -1077,6 +1080,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0731-my-calendar-ii) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1046-max-consecutive-ones-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -1162,6 +1166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0643-maximum-average-subarray-i) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -1212,11 +1217,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0387-first-unique-character-in-a-string) |
 | [0859-design-circular-deque](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0859-design-circular-deque) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0239-sliding-window-maximum) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Data Stream
 |  |
