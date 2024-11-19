@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2716-prime-subtraction-operation) |
 | [2755-extra-characters-in-a-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2954-maximum-sum-of-almost-unique-subarray](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3226-minimum-number-game](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3226-minimum-number-game) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3228-maximum-size-of-a-set-after-removals) |
@@ -925,6 +926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2755-extra-characters-in-a-string) |
+| [2954-maximum-sum-of-almost-unique-subarray](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3228-maximum-size-of-a-set-after-removals) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -1184,6 +1186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2954-maximum-sum-of-almost-unique-subarray](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
