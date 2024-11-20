@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -789,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0435-non-overlapping-intervals) |
 | [0539-minimum-time-difference](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0539-minimum-time-difference) |
+| [0594-longest-harmonious-subsequence](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -898,6 +900,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0432-all-oone-data-structure) |
 | [0560-subarray-sum-equals-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0768-partition-labels](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0768-partition-labels) |
@@ -997,6 +1000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0621-task-scheduler) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -1183,6 +1187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0713-subarray-product-less-than-k) |
