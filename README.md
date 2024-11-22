@@ -746,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0371-sum-of-two-integers) |
+| [0492-construct-the-rectangle](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0492-construct-the-rectangle) |
 | [0539-minimum-time-difference](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0592-fraction-addition-and-subtraction) |
