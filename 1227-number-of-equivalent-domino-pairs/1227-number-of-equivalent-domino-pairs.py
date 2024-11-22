@@ -1,6 +1,6 @@
 class Solution:
     def numEquivDominoPairs(self, dominoes: List[List[int]]) -> int:
-        ct=defaultdict(int)
+        ct={}
         for i in dominoes:
             ct[tuple(sorted(i))]=1+ct.get(tuple(sorted(i)),0)
         c=0
