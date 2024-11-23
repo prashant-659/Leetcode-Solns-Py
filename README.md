@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-nice-pairs-in-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [1940-maximum-xor-for-each-query](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1940-maximum-xor-for-each-query) |
+| [1972-rotating-the-box](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1972-rotating-the-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2018-minimum-space-wasted-from-packaging](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2018-minimum-space-wasted-from-packaging) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2026-merge-triplets-to-form-target-triplet) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0908-middle-of-the-linked-list) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1923-sentence-similarity-iii) |
+| [1972-rotating-the-box](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -1069,6 +1071,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1972-rotating-the-box](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2035-count-sub-islands) |
 | [2089-maximum-matrix-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2132-convert-1d-array-into-2d-array) |
