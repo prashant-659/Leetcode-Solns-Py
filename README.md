@@ -648,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0137-single-number-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0318-maximum-product-of-word-lengths) |
@@ -753,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0223-rectangle-area) |
+| [0231-power-of-two](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0268-missing-number) |
@@ -1122,6 +1124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0241-different-ways-to-add-parentheses) |
 | [0342-power-of-four](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0342-power-of-four) |
