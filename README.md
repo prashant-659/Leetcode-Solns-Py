@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2675-find-the-width-of-columns-of-a-grid) |
+| [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2716-prime-subtraction-operation) |
 | [2755-extra-characters-in-a-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2755-extra-characters-in-a-string) |
@@ -1160,6 +1161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2145-grid-game) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 ## Design
 |  |
