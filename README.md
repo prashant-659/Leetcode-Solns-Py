@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2411-spiral-matrix-iv) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2448-count-number-of-bad-pairs](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2448-count-number-of-bad-pairs) |
 | [2478-longest-nice-subarray](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2478-longest-nice-subarray) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -790,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-nice-pairs-in-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2155-find-missing-observations](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2155-find-missing-observations) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2332-count-lattice-points-inside-a-circle) |
+| [2448-count-number-of-bad-pairs](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2448-count-number-of-bad-pairs) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2630-alternating-digit-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2630-alternating-digit-sum) |
 | [2716-prime-subtraction-operation](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2716-prime-subtraction-operation) |
@@ -969,6 +971,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2139-detect-squares](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2139-detect-squares) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2448-count-number-of-bad-pairs](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2448-count-number-of-bad-pairs) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2586-longest-square-streak-in-an-array) |
@@ -1055,6 +1058,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-nice-pairs-in-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2139-detect-squares](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2139-detect-squares) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2448-count-number-of-bad-pairs](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2448-count-number-of-bad-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3519-find-the-number-of-winning-players](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3519-find-the-number-of-winning-players) |
