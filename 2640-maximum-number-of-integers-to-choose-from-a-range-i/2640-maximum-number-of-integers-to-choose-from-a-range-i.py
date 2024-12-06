@@ -11,7 +11,7 @@ class Solution:
             if i not in visit:
                 
                 if sum_+i>maxSum:
-                    break
+                    return cur
                 sum_+=i
                 cur+=1
                 
