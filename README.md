@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0907-koko-eating-bananas) |
+| [0926-find-and-replace-pattern](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0926-find-and-replace-pattern) |
 | [0932-monotonic-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0932-monotonic-array) |
 | [0940-fruit-into-baskets](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0943-sum-of-subarray-minimums) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0926-find-and-replace-pattern](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0926-find-and-replace-pattern) |
 | [1023-time-based-key-value-store](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1023-time-based-key-value-store) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1197-parsing-a-boolean-expression](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1197-parsing-a-boolean-expression) |
@@ -988,6 +990,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0876-hand-of-straights) |
 | [0906-walking-robot-simulation](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0926-find-and-replace-pattern](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0926-find-and-replace-pattern) |
 | [0940-fruit-into-baskets](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0940-fruit-into-baskets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1010-powerful-integers](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1010-powerful-integers) |
