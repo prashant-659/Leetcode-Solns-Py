@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2716-prime-subtraction-operation) |
@@ -691,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2411-spiral-matrix-iv) |
 | [2551-apply-operations-to-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2551-apply-operations-to-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2886-faulty-keyboard](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2886-faulty-keyboard) |
 | [3226-minimum-number-game](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3226-minimum-number-game) |
@@ -916,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3226-minimum-number-game](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3226-minimum-number-game) |
 | [3291-find-if-array-can-be-sorted](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3291-find-if-array-can-be-sorted) |
@@ -1049,6 +1052,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-make-number-of-distinct-characters-equal](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2615-make-number-of-distinct-characters-equal) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2755-extra-characters-in-a-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2755-extra-characters-in-a-string) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -1110,6 +1114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2803-modify-graph-edge-weights) |
 | [3226-minimum-number-game](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3226-minimum-number-game) |
