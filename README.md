@@ -1012,6 +1012,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0355-design-twitter](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0355-design-twitter) |
 | [0387-first-unique-character-in-a-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0389-find-the-difference) |
 | [0432-all-oone-data-structure](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0432-all-oone-data-structure) |
@@ -1100,6 +1101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0355-design-twitter) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0451-sort-characters-by-frequency) |
@@ -1237,6 +1239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0237-delete-node-in-a-linked-list) |
+| [0355-design-twitter](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0355-design-twitter) |
 | [0432-all-oone-data-structure](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0725-split-linked-list-in-parts) |
 | [0835-linked-list-components](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0835-linked-list-components) |
@@ -1298,6 +1301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0303-range-sum-query-immutable) |
+| [0355-design-twitter](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0355-design-twitter) |
 | [0432-all-oone-data-structure](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0731-my-calendar-ii) |
