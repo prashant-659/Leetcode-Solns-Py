@@ -730,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0476-number-complement](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0476-number-complement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0795-k-th-symbol-in-grammar](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0795-k-th-symbol-in-grammar) |
@@ -843,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0371-sum-of-two-integers) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0492-construct-the-rectangle](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0492-construct-the-rectangle) |
 | [0539-minimum-time-difference](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0564-find-the-closest-palindrome) |
