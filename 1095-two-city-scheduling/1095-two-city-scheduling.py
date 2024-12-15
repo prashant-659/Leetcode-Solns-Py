@@ -27,12 +27,13 @@ class Solution:
         ans=0
 
         n=len(costs)//2
-        for i in range(n):
-            diff, A, B=heappop(minHeap)
-            ans+=A
-        for i in range(n):
-            diff, A, B=heappop(minHeap)
-            ans+=B
+        for i in range(2*n):
+            if i<n:
+                diff, A, B=heappop(minHeap)
+                ans+=A
+            else:
+                diff, A, B=heappop(minHeap)
+                ans+=B
         return ans
         
 
