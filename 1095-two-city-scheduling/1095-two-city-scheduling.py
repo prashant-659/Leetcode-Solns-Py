@@ -9,9 +9,30 @@ class Solution:
         # for i in range(len(costs)//2):
         #     mini+=refund[i]
         # return mini
-        costs.sort(key = lambda x: x[0]-x[1])
-        total = 0
-        n = len(costs) // 2
+
+        
+        # costs.sort(key = lambda x: x[0]-x[1])
+        # total = 0
+        # n = len(costs) // 2
+        # for i in range(n):
+        #     total += costs[i][0] + costs[i+n][1]
+        # return total
+
+        minHeap=[]
+        for A, B in costs:
+            diff=A-B
+            minHeap.append((diff,A, B))
+        heapify(minHeap)
+
+        ans=0
+
+        n=len(costs)//2
         for i in range(n):
-            total += costs[i][0] + costs[i+n][1]
-        return total
+            diff, A, B=heappop(minHeap)
+            ans+=A
+        for i in range(n):
+            diff, A, B=heappop(minHeap)
+            ans+=B
+        return ans
+        
+
