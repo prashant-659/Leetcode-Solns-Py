@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0628-maximum-product-of-three-numbers) |
@@ -774,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0376-wiggle-subsequence) |
 | [0402-remove-k-digits](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0435-non-overlapping-intervals) |
+| [0561-array-partition](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0670-maximum-swap) |
@@ -919,6 +921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0506-relative-ranks) |
 | [0539-minimum-time-difference](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0539-minimum-time-difference) |
+| [0561-array-partition](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0628-maximum-product-of-three-numbers) |
@@ -1624,6 +1627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0274-h-index) |
+| [0561-array-partition](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0948-sort-an-array) |
 ## Bitmask
 |  |
