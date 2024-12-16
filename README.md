@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0389-find-the-difference) |
+| [0402-remove-k-digits](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0451-sort-characters-by-frequency) |
 | [0468-validate-ip-address](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0468-validate-ip-address) |
 | [0539-minimum-time-difference](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0539-minimum-time-difference) |
@@ -771,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0376-wiggle-subsequence) |
+| [0402-remove-k-digits](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -975,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0739-daily-temperatures) |
@@ -1002,6 +1005,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0883-car-fleet) |
