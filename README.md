@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0435-non-overlapping-intervals) |
 | [0463-island-perimeter](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0463-island-perimeter) |
+| [0475-heaters](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0503-next-greater-element-ii) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0475-heaters](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0475-heaters) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0713-subarray-product-less-than-k) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0475-heaters](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0475-heaters) |
 | [0541-reverse-string-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0567-permutation-in-string) |
@@ -922,6 +925,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0451-sort-characters-by-frequency) |
+| [0475-heaters](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0475-heaters) |
 | [0506-relative-ranks](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0506-relative-ranks) |
 | [0539-minimum-time-difference](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0561-array-partition) |
