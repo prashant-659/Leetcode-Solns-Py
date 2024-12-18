@@ -14,7 +14,7 @@ class Solution:
             
 
             while stack and stack[-1]>ch and freq[stack[-1]]>0:
-                seen.remove(stack.pop())
+                seen.discard(stack.pop())
             stack.append(ch)
             seen.add(ch)
 
