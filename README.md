@@ -464,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-score-of-a-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3379-score-of-a-string) |
 | [3451-string-compression-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3451-string-compression-iii) |
 | [3533-snake-in-matrix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3533-snake-in-matrix) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Tree
@@ -1128,6 +1129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3516-design-neighbor-sum-service](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3516-design-neighbor-sum-service) |
 | [3519-find-the-number-of-winning-players](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3519-find-the-number-of-winning-players) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Divide and Conquer
@@ -1457,6 +1459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Merge Sort
 |  |
