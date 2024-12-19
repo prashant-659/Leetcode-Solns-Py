@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0306-additive-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0318-maximum-product-of-word-lengths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0345-reverse-vowels-of-a-string) |
@@ -838,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0212-word-search-ii) |
+| [0306-additive-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0306-additive-number) |
 | [0494-target-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
