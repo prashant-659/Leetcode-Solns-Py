@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -933,6 +934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0215-kth-largest-element-in-an-array) |
@@ -1154,6 +1156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0218-the-skyline-problem) |
@@ -1310,6 +1313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0234-palindrome-linked-list) |
@@ -1479,6 +1483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0948-sort-an-array) |
 ## String Matching
 |  |
