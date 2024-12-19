@@ -403,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0567-permutation-in-string) |
+| [0583-delete-operation-for-two-strings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0583-delete-operation-for-two-strings) |
 | [0592-fraction-addition-and-subtraction](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0592-fraction-addition-and-subtraction) |
 | [0647-palindromic-substrings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0657-robot-return-to-origin) |
@@ -688,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0518-coin-change-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0647-palindromic-substrings) |
 | [0664-strange-printer](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0678-valid-parenthesis-string) |
