@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0948-sort-an-array) |
+| [0967-minimum-falling-path-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0967-minimum-falling-path-sum) |
 | [1002-maximum-width-ramp](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1002-maximum-width-ramp) |
 | [1014-k-closest-points-to-origin](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1014-k-closest-points-to-origin) |
 | [1025-minimum-cost-for-tickets](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1025-minimum-cost-for-tickets) |
@@ -710,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0943-sum-of-subarray-minimums](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0943-sum-of-subarray-minimums) |
+| [0967-minimum-falling-path-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1025-minimum-cost-for-tickets) |
 | [1250-longest-common-subsequence](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -1281,6 +1283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0695-max-area-of-island) |
 | [0787-sliding-puzzle](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0787-sliding-puzzle) |
+| [0967-minimum-falling-path-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1402-count-square-submatrices-with-all-ones) |
