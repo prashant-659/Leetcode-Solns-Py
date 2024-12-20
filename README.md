@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1184-car-pooling](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1184-car-pooling) |
 | [1222-remove-covered-intervals](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1222-remove-covered-intervals) |
+| [1224-minimum-falling-path-sum-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1325-path-with-maximum-probability) |
@@ -713,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1025-minimum-cost-for-tickets) |
+| [1224-minimum-falling-path-sum-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1250-longest-common-subsequence](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1488-sort-integers-by-the-power-value](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1488-sort-integers-by-the-power-value) |
@@ -1286,6 +1288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1224-minimum-falling-path-sum-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1677-matrix-diagonal-sum) |
