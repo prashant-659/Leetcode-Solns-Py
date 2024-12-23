@@ -15,8 +15,9 @@ class Solution:
                 return root
 
             postIndex= postStart
-            while post[postIndex]!=pre[preStart+1]: 
-                postIndex+=1
+            # while post[postIndex]!=pre[preStart+1]: 
+            #     postIndex+=1
+            postIndex=dic[pre[preStart+1]]
 
             length=postIndex-postStart+1
             root.left=dfs(pre, preStart+1, preStart+length, post, postStart, postIndex)
