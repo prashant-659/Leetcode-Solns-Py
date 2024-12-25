@@ -9,14 +9,31 @@ class Solution:
         if depth==1:
             return TreeNode(val, left=root)
         
+        # q=deque([root])
+        # for _ in range(depth-2):
+        #     for _ in range(len(q)):
+        #         node=q.popleft()
+        #         if node.left: q.append(node.left)
+        #         if node.right: q.append(node.right)
+        # while q:
+        #     node=q.popleft()
+        #     node.left=TreeNode(val, left=node.left)
+        #     node.right=TreeNode(val, right=node.right)
+        # return root
+        cur=1
         q=deque([root])
-        for _ in range(depth-2):
+        while cur<depth-1:
             for _ in range(len(q)):
                 node=q.popleft()
-                if node.left: q.append(node.left)
-                if node.right: q.append(node.right)
-        while q:
-            node=q.popleft()
+                if node.left:
+                    q.append(node.left)
+                if node.right:
+                    q.append(node.right)
+            cur+=1
+        
+        for node  in q:
             node.left=TreeNode(val, left=node.left)
             node.right=TreeNode(val, right=node.right)
         return root
+        
+        
