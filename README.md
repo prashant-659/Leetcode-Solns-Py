@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0303-range-sum-query-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0312-burst-balloons) |
+| [0313-super-ugly-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0313-super-ugly-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0318-maximum-product-of-word-lengths) |
 | [0322-coin-change](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -791,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0312-burst-balloons) |
+| [0313-super-ugly-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0376-wiggle-subsequence](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0376-wiggle-subsequence) |
@@ -1005,6 +1007,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0268-missing-number) |
+| [0313-super-ugly-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0313-super-ugly-number) |
 | [0319-bulb-switcher](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0367-valid-perfect-square) |
