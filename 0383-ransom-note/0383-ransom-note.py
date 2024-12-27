@@ -1,12 +1,12 @@
 class Solution:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
-        c=Counter(magazine)
-        c2=Counter(ransomNote)
+        mag=Counter(magazine)
+        ran=Counter(ransomNote)
         
         for r in ransomNote:
-            if r not in c:
+            if r not in mag:
                 return False
             else:
-                if c[r]<c2[r]:
+                if mag[r]<ran[r]:
                     return False
         return True
