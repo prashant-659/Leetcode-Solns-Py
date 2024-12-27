@@ -796,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0343-integer-break](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0343-integer-break) |
 | [0376-wiggle-subsequence](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0377-combination-sum-iv) |
 | [0413-arithmetic-slices](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0413-arithmetic-slices) |
@@ -1012,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0313-super-ugly-number) |
 | [0319-bulb-switcher](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0405-convert-a-number-to-hexadecimal) |
