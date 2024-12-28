@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0643-maximum-average-subarray-i) |
+| [0646-maximum-length-of-pair-chain](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0658-find-k-closest-elements) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0695-max-area-of-island](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0695-max-area-of-island) |
@@ -817,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0583-delete-operation-for-two-strings) |
+| [0646-maximum-length-of-pair-chain](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0647-palindromic-substrings) |
 | [0664-strange-printer](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0678-valid-parenthesis-string) |
@@ -928,6 +930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0646-maximum-length-of-pair-chain](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0646-maximum-length-of-pair-chain) |
 | [0670-maximum-swap](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0768-partition-labels) |
@@ -1095,6 +1098,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0646-maximum-length-of-pair-chain](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0692-top-k-frequent-words) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0719-find-k-th-smallest-pair-distance) |
