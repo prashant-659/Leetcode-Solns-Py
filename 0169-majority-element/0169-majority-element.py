@@ -10,10 +10,15 @@ class Solution:
         #         max_ct=count[nums[i]]
         # return res
 
-        ct=0
-        res=0
-        for i in range(len(nums)):
-            if ct==0:
-                res=nums[i]
-            ct+=(1 if nums[i]==res else -1)
-        return res
+        # ct=0
+        # res=0
+        # for i in range(len(nums)):
+        #     if ct==0:
+        #         res=nums[i]
+        #     ct+=(1 if nums[i]==res else -1)
+        # return res
+
+        while True:
+            ele=random.choice(nums)
+            if nums.count(ele)>len(nums)//2:
+                return ele
