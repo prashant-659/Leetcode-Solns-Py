@@ -1,7 +1,6 @@
 class Solution:
     def mincostTickets(self, days: List[int], costs: List[int]) -> int:
         dp={}
-
         def dfs(i):
             if i==len(days):
                 return 0
