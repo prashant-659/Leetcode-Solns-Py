@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0876-hand-of-straights) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0883-car-fleet](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0883-car-fleet) |
+| [0890-lemonade-change](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0907-koko-eating-bananas) |
@@ -957,6 +958,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0780-max-chunks-to-make-sorted) |
 | [0876-hand-of-straights](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0876-hand-of-straights) |
+| [0890-lemonade-change](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0890-lemonade-change) |
 | [1095-two-city-scheduling](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1095-two-city-scheduling) |
 | [1285-balance-a-binary-search-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1285-balance-a-binary-search-tree) |
 | [1304-longest-happy-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1304-longest-happy-string) |
