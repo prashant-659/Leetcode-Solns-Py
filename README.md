@@ -457,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1534-minimum-number-of-frogs-croaking) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -1545,6 +1546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1184-car-pooling) |
 | [1435-xor-queries-of-a-subarray](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1694-make-sum-divisible-by-p) |
 | [1833-find-the-highest-altitude](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1833-find-the-highest-altitude) |
 | [1940-maximum-xor-for-each-query](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1940-maximum-xor-for-each-query) |
