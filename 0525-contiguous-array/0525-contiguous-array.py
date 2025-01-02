@@ -22,18 +22,18 @@ class Solution:
         
         # print(max_res)
         max_len=0
-        mp={}
-        ct=0
+        mp={0:-1}
+        zeros=0
+        ones=0
         for i in range(len(nums)):
             cur=nums[i]
             if cur==0:
-                ct-=1
+                zeros+=1
             else:
-                ct+=1
-            if ct==0:
-                max_len=i+1 
-            if ct in mp:
-                max_len=max(max_len, i-mp[ct])
+                ones+=1
+            diff=zeros-ones
+            if diff in mp:
+                max_len=max(max_len, i-mp[diff])
             else:
-                mp[ct]=i
+                mp[diff]=i
         return max_len   
