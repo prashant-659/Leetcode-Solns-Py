@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1677-matrix-diagonal-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1677-matrix-diagonal-sum) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
@@ -983,6 +984,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1285-balance-a-binary-search-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1285-balance-a-binary-search-tree) |
 | [1304-longest-happy-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1304-longest-happy-string) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -1327,6 +1329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1694-make-sum-divisible-by-p](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -1591,6 +1594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1694-make-sum-divisible-by-p](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1694-make-sum-divisible-by-p) |
 | [1833-find-the-highest-altitude](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1833-find-the-highest-altitude) |
