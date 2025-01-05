@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-linked-list-components](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0835-linked-list-components) |
 | [0859-design-circular-deque](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0859-design-circular-deque) |
 | [0876-hand-of-straights](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0876-hand-of-straights) |
+| [0878-shifting-letters](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0878-shifting-letters) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0883-car-fleet](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0883-car-fleet) |
 | [0890-lemonade-change](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0890-lemonade-change) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0692-top-k-frequent-words) |
 | [0768-partition-labels](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0812-rotate-string) |
+| [0878-shifting-letters](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0878-shifting-letters) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0926-find-and-replace-pattern](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0926-find-and-replace-pattern) |
 | [1023-time-based-key-value-store](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1023-time-based-key-value-store) |
@@ -1597,6 +1599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0713-subarray-product-less-than-k) |
 | [0731-my-calendar-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0731-my-calendar-ii) |
+| [0878-shifting-letters](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0878-shifting-letters) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1046-max-consecutive-ones-iii) |
