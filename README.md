@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2411-spiral-matrix-iv) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2448-count-number-of-bad-pairs](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2448-count-number-of-bad-pairs) |
+| [2465-shifting-letters-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2465-shifting-letters-ii) |
 | [2478-longest-nice-subarray](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2478-longest-nice-subarray) |
 | [2479-meeting-rooms-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2465-shifting-letters-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2465-shifting-letters-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2580-circular-sentence](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -1614,6 +1616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
