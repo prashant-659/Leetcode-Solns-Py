@@ -14,7 +14,6 @@ class Solution:
             prefix_sum+=n
             remain=prefix_sum%k
 
-            if remain in prefix_cnt:
-                res+=prefix_cnt[remain]
+            res+=prefix_cnt[remain]
             prefix_cnt[remain]+=1
         return res
