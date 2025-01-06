@@ -2,7 +2,7 @@ class Solution:
     def largestSumOfAverages(self, nums: List[int], k: int) -> float:
         N=len(nums)
         dp={}
-        
+        @cache
         def largestSuffix(index, kleft):
             if index==N:    
                 if kleft==0:
