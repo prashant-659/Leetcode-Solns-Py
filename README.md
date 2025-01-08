@@ -493,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1508-longest-happy-prefix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1508-longest-happy-prefix) |
 | [1524-string-matching-in-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1524-string-matching-in-an-array) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -1790,6 +1791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0572-subtree-of-another-tree) |
 | [0686-repeated-string-match](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0812-rotate-string) |
+| [1508-longest-happy-prefix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1508-longest-happy-prefix) |
 | [1524-string-matching-in-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
@@ -1800,6 +1802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0572-subtree-of-another-tree) |
 | [0816-design-hashset](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0816-design-hashset) |
+| [1508-longest-happy-prefix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1508-longest-happy-prefix) |
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Trie
@@ -1961,6 +1964,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0214-shortest-palindrome) |
+| [1508-longest-happy-prefix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1508-longest-happy-prefix) |
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Minimum Spanning Tree
