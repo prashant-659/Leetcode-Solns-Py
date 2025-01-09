@@ -3,6 +3,6 @@ class Solution:
         res=0
         end=len(pref)
         for w in words:
-            if w[:end]==pref:
+            if w.startswith(pref):
                 res+=1
         return res
