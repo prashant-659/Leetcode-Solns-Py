@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2018-minimum-space-wasted-from-packaging](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2018-minimum-space-wasted-from-packaging) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2326-sum-of-scores-of-built-strings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2326-sum-of-scores-of-built-strings) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2586-longest-square-streak-in-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2300-construct-string-with-repeat-limit) |
+| [2326-sum-of-scores-of-built-strings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2326-sum-of-scores-of-built-strings) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2465-shifting-letters-ii) |
@@ -1810,6 +1812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2326-sum-of-scores-of-built-strings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2326-sum-of-scores-of-built-strings) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 | [3290-number-of-subarrays-that-match-a-pattern-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3290-number-of-subarrays-that-match-a-pattern-ii) |
@@ -1823,6 +1826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0572-subtree-of-another-tree) |
 | [0816-design-hashset](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0816-design-hashset) |
 | [1508-longest-happy-prefix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1508-longest-happy-prefix) |
+| [2326-sum-of-scores-of-built-strings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2326-sum-of-scores-of-built-strings) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 | [3290-number-of-subarrays-that-match-a-pattern-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3290-number-of-subarrays-that-match-a-pattern-ii) |
@@ -1989,6 +1993,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0214-shortest-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1508-longest-happy-prefix) |
+| [2326-sum-of-scores-of-built-strings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2326-sum-of-scores-of-built-strings) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 | [3290-number-of-subarrays-that-match-a-pattern-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3290-number-of-subarrays-that-match-a-pattern-ii) |
@@ -2055,4 +2060,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0173-binary-search-tree-iterator) |
+## Suffix Array
+|  |
+| ------- |
+| [2326-sum-of-scores-of-built-strings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2326-sum-of-scores-of-built-strings) |
 <!---LeetCode Topics End-->
