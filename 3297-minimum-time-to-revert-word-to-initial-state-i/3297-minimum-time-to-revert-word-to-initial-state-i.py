@@ -18,7 +18,7 @@ class Solution:
         while i<n:
             # i to n-i temp (suffix)==prefix of original word of len n-i
             if check(word,i):
-                break
+                return count
             count+=1
             i+=k
-        return count
+        return math.ceil(n/k)
