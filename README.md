@@ -468,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0451-sort-characters-by-frequency) |
+| [0459-repeated-substring-pattern](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0459-repeated-substring-pattern) |
 | [0468-validate-ip-address](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0468-validate-ip-address) |
 | [0539-minimum-time-difference](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0541-reverse-string-ii) |
@@ -1801,6 +1802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0214-shortest-palindrome) |
+| [0459-repeated-substring-pattern](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0572-subtree-of-another-tree) |
 | [0686-repeated-string-match](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0812-rotate-string) |
