@@ -504,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1502-construct-k-palindrome-strings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1502-construct-k-palindrome-strings) |
 | [1508-longest-happy-prefix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1508-longest-happy-prefix) |
 | [1524-string-matching-in-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1524-string-matching-in-an-array) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1534-minimum-number-of-frogs-croaking) |
@@ -1031,6 +1032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1285-balance-a-binary-search-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1285-balance-a-binary-search-tree) |
 | [1304-longest-happy-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1304-longest-happy-string) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1502-construct-k-palindrome-strings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1502-construct-k-palindrome-strings) |
 | [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -1381,6 +1383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1502-construct-k-palindrome-strings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1502-construct-k-palindrome-strings) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
@@ -1514,6 +1517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1502-construct-k-palindrome-strings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1502-construct-k-palindrome-strings) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
