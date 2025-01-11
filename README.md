@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0747-min-cost-climbing-stairs) |
+| [0753-open-the-lock](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0753-open-the-lock) |
 | [0780-max-chunks-to-make-sorted](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0787-sliding-puzzle) |
 | [0805-escape-the-ghosts](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0805-escape-the-ghosts) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0692-top-k-frequent-words) |
+| [0753-open-the-lock](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0753-open-the-lock) |
 | [0768-partition-labels](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0768-partition-labels) |
 | [0807-custom-sort-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0807-custom-sort-string) |
 | [0812-rotate-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0812-rotate-string) |
@@ -757,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0744-network-delay-time) |
+| [0753-open-the-lock](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0753-open-the-lock) |
 | [0787-sliding-puzzle](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0787-sliding-puzzle) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -1360,6 +1363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0652-find-duplicate-subtrees](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0652-find-duplicate-subtrees) |
 | [0692-top-k-frequent-words](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0692-top-k-frequent-words) |
+| [0753-open-the-lock](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0753-open-the-lock) |
 | [0768-partition-labels](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0768-partition-labels) |
 | [0807-custom-sort-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0807-custom-sort-string) |
 | [0816-design-hashset](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0816-design-hashset) |
