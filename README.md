@@ -567,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3617-find-the-original-typed-string-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3684-substring-matching-pattern](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3684-substring-matching-pattern) |
 ## Tree
 |  |
 | ------- |
@@ -1833,6 +1834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3684-substring-matching-pattern](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3684-substring-matching-pattern) |
 ## Hash Function
 |  |
 | ------- |
