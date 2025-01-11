@@ -486,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0692-top-k-frequent-words) |
 | [0768-partition-labels](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0768-partition-labels) |
+| [0807-custom-sort-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0807-custom-sort-string) |
 | [0812-rotate-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0812-rotate-string) |
 | [0878-shifting-letters](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0878-shifting-letters) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -1206,6 +1207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0692-top-k-frequent-words) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0780-max-chunks-to-make-sorted](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0780-max-chunks-to-make-sorted) |
+| [0807-custom-sort-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0807-custom-sort-string) |
 | [0876-hand-of-straights](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0883-car-fleet) |
 | [0917-boats-to-save-people](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0917-boats-to-save-people) |
@@ -1358,6 +1360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0652-find-duplicate-subtrees) |
 | [0692-top-k-frequent-words](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0692-top-k-frequent-words) |
 | [0768-partition-labels](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0768-partition-labels) |
+| [0807-custom-sort-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0807-custom-sort-string) |
 | [0816-design-hashset](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0816-design-hashset) |
 | [0835-linked-list-components](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0835-linked-list-components) |
 | [0876-hand-of-straights](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0876-hand-of-straights) |
