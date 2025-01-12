@@ -5,24 +5,37 @@ class Solution:
             return False
 
 
-        unlocked=[]
-        stack_locked=[]
+        unlocked_cnt=0
+        locked_cnt=0
         for i in range(len(s)):
             if locked[i]=="0":
-                unlocked.append(i)
+                unlocked_cnt+=1
             elif s[i]=="(":
-                stack_locked.append(i)
+                locked_cnt+=1
             else:
-                if stack_locked:
-                    stack_locked.pop()
-                elif unlocked:
-                    unlocked.pop()
+                if locked_cnt:
+                    locked_cnt-=1
+                elif unlocked_cnt:
+                    unlocked_cnt-=1
                 else:
                     return False
-        while stack_locked and unlocked and stack_locked[-1]<unlocked[-1]:
-            stack_locked.pop()
-            unlocked.pop()
         
-        if stack_locked:
-            return False
+        if locked_cnt==0:
+            return True
+        
+        locked_cnt=0
+        unlocked_cnt=0
+        for i in reversed(range(len(s))):
+            if locked[i]=="0":
+                unlocked_cnt+=1
+            elif s[i]==")":
+                locked_cnt+=1
+            else:
+                if locked_cnt:
+                    locked_cnt-=1
+                elif unlocked_cnt:
+                    unlocked_cnt-=1
+                else:
+                    return False
+    
         return True 
