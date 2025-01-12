@@ -1,5 +1,10 @@
 class Solution:
     def canBeValid(self, s: str, locked: str) -> bool:
+
+        if len(s)%2==1:
+            return False
+
+
         unlocked=[]
         stack_locked=[]
         for i in range(len(s)):
@@ -20,4 +25,4 @@ class Solution:
         
         if stack_locked:
             return False
-        return True if len(unlocked)%2==0 else False
+        return True 
