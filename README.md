@@ -984,6 +984,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0137-single-number-ii) |
@@ -1084,6 +1085,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0131-palindrome-partitioning) |
@@ -1127,6 +1129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0168-excel-sheet-column-title) |
