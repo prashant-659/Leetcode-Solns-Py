@@ -1020,6 +1020,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2478-longest-nice-subarray](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2478-longest-nice-subarray) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2509-minimize-xor](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3080-split-array-into-maximum-number-of-subarrays](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3080-split-array-into-maximum-number-of-subarrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3291-find-if-array-can-be-sorted) |
@@ -1072,6 +1073,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2509-minimize-xor](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2509-minimize-xor) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
