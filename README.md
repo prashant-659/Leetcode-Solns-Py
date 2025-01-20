@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
+| [2685-first-completely-painted-row-or-column](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -1463,6 +1464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-make-number-of-distinct-characters-equal](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2615-make-number-of-distinct-characters-equal) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2685-first-completely-painted-row-or-column](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2755-extra-characters-in-a-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -1640,6 +1642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2411-spiral-matrix-iv) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2675-find-the-width-of-columns-of-a-grid) |
+| [2685-first-completely-painted-row-or-column](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3272-find-the-grid-of-region-average](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3272-find-the-grid-of-region-average) |
