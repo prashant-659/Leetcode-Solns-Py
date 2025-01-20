@@ -10,13 +10,11 @@ class Solution:
 
         row_cnt=[0]*R
         col_cnt=[0]*C
-        ans=0
+
         for i in range(len(arr)):
             r,c =mat_to_pos[arr[i]]
             row_cnt[r]+=1
             col_cnt[c]+=1
              
             if col_cnt[c]==R or row_cnt[r]==C:
-                ans=i
-                break
-        return ans
+                return i
