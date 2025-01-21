@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3712-minimum-cost-to-make-arrays-identical](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 ## Binary Search
 |  |
 | ------- |
@@ -1098,6 +1099,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-separate-black-and-white-balls](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3195-separate-black-and-white-balls) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3228-maximum-size-of-a-set-after-removals) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3390-minimum-rectangles-to-cover-points) |
+| [3712-minimum-cost-to-make-arrays-identical](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 ## Backtracking
 |  |
 | ------- |
@@ -1295,6 +1297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3321-type-of-triangle) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3712-minimum-cost-to-make-arrays-identical](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 ## Stack
 |  |
 | ------- |
