@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1833-find-the-highest-altitude](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1833-find-the-highest-altitude) |
+| [1876-map-of-highest-peak](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1876-map-of-highest-peak) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1923-sentence-similarity-iii) |
@@ -797,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-count-good-nodes-in-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1876-map-of-highest-peak](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2035-count-sub-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2121-find-if-path-exists-in-graph) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -1643,6 +1645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1677-matrix-diagonal-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1677-matrix-diagonal-sum) |
+| [1876-map-of-highest-peak](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2035-count-sub-islands) |
 | [2089-maximum-matrix-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2089-maximum-matrix-sum) |
