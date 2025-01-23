@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1370-count-number-of-nice-subarrays](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1370-count-number-of-nice-subarrays) |
 | [1395-minimum-time-visiting-all-points](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1395-minimum-time-visiting-all-points) |
+| [1396-count-servers-that-communicate](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1396-count-servers-that-communicate) |
 | [1397-search-suggestions-system](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1397-search-suggestions-system) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -734,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-deepest-leaves-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1254-deepest-leaves-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1285-balance-a-binary-search-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1396-count-servers-that-communicate](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1396-count-servers-that-communicate) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1484-linked-list-in-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -793,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1254-deepest-leaves-sum) |
+| [1396-count-servers-that-communicate](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1484-linked-list-in-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -1584,6 +1587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0692-top-k-frequent-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1396-count-servers-that-communicate](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1396-count-servers-that-communicate) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1502-construct-k-palindrome-strings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1502-construct-k-palindrome-strings) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1534-minimum-number-of-frogs-croaking) |
@@ -1641,6 +1645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1104-coloring-a-border](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1104-coloring-a-border) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1224-minimum-falling-path-sum-ii) |
+| [1396-count-servers-that-communicate](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -1838,6 +1843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0695-max-area-of-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1396-count-servers-that-communicate](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1396-count-servers-that-communicate) |
 | [1706-min-cost-to-connect-all-points](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1706-min-cost-to-connect-all-points) |
 | [2035-count-sub-islands](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2035-count-sub-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2121-find-if-path-exists-in-graph) |
