@@ -799,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1036-rotting-oranges) |
 | [1104-coloring-a-border](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1104-coloring-a-border) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1229-shortest-path-with-alternating-colors](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1254-deepest-leaves-sum) |
 | [1396-count-servers-that-communicate](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1396-count-servers-that-communicate) |
@@ -1809,6 +1810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0871-keys-and-rooms) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1039-find-the-town-judge](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1039-find-the-town-judge) |
+| [1229-shortest-path-with-alternating-colors](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1325-path-with-maximum-probability](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1325-path-with-maximum-probability) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1706-min-cost-to-connect-all-points](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1706-min-cost-to-connect-all-points) |
