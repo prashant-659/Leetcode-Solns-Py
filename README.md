@@ -945,6 +945,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0583-delete-operation-for-two-strings) |
+| [0629-k-inverse-pairs-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0629-k-inverse-pairs-array) |
 | [0646-maximum-length-of-pair-chain](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0647-palindromic-substrings) |
 | [0664-strange-printer](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0664-strange-printer) |
