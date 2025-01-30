@@ -43,7 +43,7 @@ class Solution:
         #         visit.add(nei)
         # return False
         
-        def dfs(node,visit):
+        def dfs(node):
 
             
             if node==destination:
@@ -52,9 +52,9 @@ class Solution:
             visit.add(node)
             for nei in adjList[node]:
                 if nei not in visit:
-                    if dfs(nei,visit):
+                    if dfs(nei):
                         return True
                 
 
             return False
-        return dfs(source,set())
+        return dfs(source)
