@@ -29,17 +29,32 @@ class Solution:
         for u, v in edges:
             adjList[u].append(v)
             adjList[v].append(u)
-        q=deque([source])
+        # q=deque([source])
         visit=set()
-        visit.add(source)
 
-        while q:
-            node=q.popleft()
+        # while q:
+        #     node=q.popleft()
+        #     if node==destination:
+        #         return True
+        #     for nei in adjList[node]:
+        #         if nei in visit:
+        #             continue
+        #         q.append(nei)
+        #         visit.add(nei)
+        # return False
+        
+        def dfs(node,visit):
+
+            
             if node==destination:
                 return True
+
+            visit.add(node)
             for nei in adjList[node]:
-                if nei in visit:
-                    continue
-                q.append(nei)
-                visit.add(nei)
-        return False
+                if nei not in visit:
+                    if dfs(nei,visit):
+                        return True
+                
+
+            return False
+        return dfs(source,set())
