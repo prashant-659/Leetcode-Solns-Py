@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0816-design-hashset) |
 | [0831-largest-sum-of-averages](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0831-largest-sum-of-averages) |
 | [0835-linked-list-components](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0835-linked-list-components) |
+| [0854-making-a-large-island](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0859-design-circular-deque) |
 | [0876-hand-of-straights](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0876-hand-of-straights) |
 | [0878-shifting-letters](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0878-shifting-letters) |
@@ -729,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0820-find-eventual-safe-states) |
 | [0832-binary-tree-pruning](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0832-binary-tree-pruning) |
+| [0854-making-a-large-island](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
@@ -802,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
@@ -1667,6 +1670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0695-max-area-of-island) |
 | [0787-sliding-puzzle](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0787-sliding-puzzle) |
+| [0854-making-a-large-island](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0854-making-a-large-island) |
 | [0898-transpose-matrix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0898-transpose-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1036-rotting-oranges) |
@@ -1883,6 +1887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0801-is-graph-bipartite) |
+| [0854-making-a-large-island](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1396-count-servers-that-communicate](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1396-count-servers-that-communicate) |
 | [1706-min-cost-to-connect-all-points](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1706-min-cost-to-connect-all-points) |
