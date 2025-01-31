@@ -86,17 +86,15 @@
 class Solution:
     def minReorder(self, n: int, connections: List[List[int]]) -> int:
         edges = defaultdict(list)
-        ori = set()  # Using a set instead of a dict
+        ori = set()  #
 
-        # Build adjacency list and store directed edges
         for u, v in connections:
             edges[u].append(v)
             edges[v].append(u)
-            ori.add((u, v))  # Store original direction
+            ori.add((u, v))  
 
-        print(edges, ori)  # Debugging print
 
-        q = deque([0])  # Start BFS from city 0
+        q = deque([0])  
         visit = set()
         visit.add(0)
         ans = 0
@@ -104,12 +102,12 @@ class Solution:
         while q:
             city = q.popleft()
             for nei in edges[city]:
-                if nei in visit:
-                    continue
-                if (city, nei) in ori:  # If original direction needs to be reversed
-                    ans += 1
-                q.append(nei)
-                visit.add(nei)
+                if nei not in visit:
+                    
+                    if (city, nei) in ori:  
+                        ans += 1
+                    q.append(nei)
+                    visit.add(nei)
 
         return ans
 
