@@ -86,12 +86,11 @@
 class Solution:
     def minReorder(self, n: int, connections: List[List[int]]) -> int:
         edges = defaultdict(list)
-        ori = set()  #
+        ori={(a,b) for a, b in connections} #
 
         for u, v in connections:
             edges[u].append(v)
             edges[v].append(u)
-            ori.add((u, v))  
 
 
         q = deque([0])  
@@ -102,8 +101,7 @@ class Solution:
         while q:
             city = q.popleft()
             for nei in edges[city]:
-                if nei not in visit:
-                    
+                if nei not in visit:   
                     if (city, nei) in ori:  
                         ans += 1
                     q.append(nei)
