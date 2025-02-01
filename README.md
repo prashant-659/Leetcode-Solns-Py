@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1104-coloring-a-border](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1104-coloring-a-border) |
 | [1127-last-stone-weight](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1127-last-stone-weight) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1184-car-pooling](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1184-car-pooling) |
 | [1185-find-in-mountain-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1185-find-in-mountain-array) |
 | [1222-remove-covered-intervals](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1222-remove-covered-intervals) |
@@ -821,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0998-check-completeness-of-a-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1036-rotting-oranges) |
 | [1104-coloring-a-border](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1104-coloring-a-border) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
@@ -1690,6 +1692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1036-rotting-oranges) |
 | [1104-coloring-a-border](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1104-coloring-a-border) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1396-count-servers-that-communicate](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1402-count-square-submatrices-with-all-ones) |
