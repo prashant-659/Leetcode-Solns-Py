@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0399-evaluate-division](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0413-arithmetic-slices) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0389-find-the-difference) |
+| [0399-evaluate-division](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0451-sort-characters-by-frequency) |
@@ -712,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0337-house-robber-iii) |
 | [0386-lexicographical-numbers](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0386-lexicographical-numbers) |
+| [0399-evaluate-division](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0463-island-perimeter) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -794,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0399-evaluate-division](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0463-island-perimeter) |
@@ -1838,6 +1842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0332-reconstruct-itinerary) |
+| [0399-evaluate-division](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0801-is-graph-bipartite) |
@@ -1871,6 +1876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0399-evaluate-division) |
 | [0744-network-delay-time](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1325-path-with-maximum-probability) |
@@ -1895,6 +1901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0801-is-graph-bipartite) |
