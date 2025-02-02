@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3321-type-of-triangle) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3373-maximum-prime-difference](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3373-maximum-prime-difference) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
