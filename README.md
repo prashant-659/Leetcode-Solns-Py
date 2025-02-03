@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0410-split-array-largest-sum) |
+| [0441-arranging-coins](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0441-arranging-coins) |
 | [0475-heaters](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0540-single-element-in-a-sorted-array) |
@@ -1232,6 +1233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0441-arranging-coins) |
 | [0477-total-hamming-distance](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0477-total-hamming-distance) |
 | [0492-construct-the-rectangle](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0492-construct-the-rectangle) |
 | [0539-minimum-time-difference](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0539-minimum-time-difference) |
