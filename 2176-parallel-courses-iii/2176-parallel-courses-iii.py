@@ -12,7 +12,10 @@ class Solution:
             graph[u].append(v)
             indegree[v]+=1
         q=deque()
-        dp={i:time[i-1] for i in range(1,n+1)}
+        # dp={i:time[i-1] for i in range(1,n+1)}
+        dp=[0]*(n+1)
+        for i in range(1, n+1):
+            dp[i]=time[i-1]
         for i in range(1,n+1):
             if indegree[i]==0:
                 q.append(i)
@@ -26,7 +29,7 @@ class Solution:
                 if indegree[nei]==0:
                     q.append(nei)
         
-        return max(dp.values())
+        return max(dp)
 
 
 
