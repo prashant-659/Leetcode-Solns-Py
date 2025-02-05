@@ -1,6 +1,6 @@
 class Solution:
     def minimumTime(self, n: int, relations: List[List[int]], time: List[int]) -> int:
-        #kahns algo use with care and you can solve it but how?
+        #kahns algo use with care and you can solve it but how? with dp.
         # 1->5, 1
         # 2->5, 2
         # 3->5, 3
@@ -11,16 +11,17 @@ class Solution:
         for u, v in relations:
             graph[u].append(v)
             indegree[v]+=1
+
         q=deque()
         # dp={i:time[i-1] for i in range(1,n+1)}
         dp=[0]*(n+1)
         for i in range(1, n+1):
             dp[i]=time[i-1]
+
         for i in range(1,n+1):
             if indegree[i]==0:
                 q.append(i)
-        ans=0
-        months=0
+
         while q:
             node=q.popleft()
             for nei in graph[node]:
