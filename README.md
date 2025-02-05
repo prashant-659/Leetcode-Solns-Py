@@ -1526,6 +1526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2300-construct-string-with-repeat-limit) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2434-design-a-number-container-system](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2448-count-number-of-bad-pairs) |
 | [2479-meeting-rooms-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2479-meeting-rooms-iii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -1614,6 +1615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2434-design-a-number-container-system](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2434-design-a-number-container-system) |
 | [2479-meeting-rooms-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -1851,6 +1853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1023-time-based-key-value-store) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2139-detect-squares](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2139-detect-squares) |
+| [2434-design-a-number-container-system](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2434-design-a-number-container-system) |
 | [3516-design-neighbor-sum-service](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3516-design-neighbor-sum-service) |
 ## Graph
 |  |
@@ -2214,6 +2217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0732-my-calendar-iii) |
 | [0931-maximum-frequency-stack](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0931-maximum-frequency-stack) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2434-design-a-number-container-system](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2868-continuous-subarrays) |
 ## Counting Sort
 |  |
