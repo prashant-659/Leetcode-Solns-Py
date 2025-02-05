@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0859-design-circular-deque) |
 | [0876-hand-of-straights](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0876-hand-of-straights) |
 | [0878-shifting-letters](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0878-shifting-letters) |
+| [0881-loud-and-rich](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0881-loud-and-rich) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0883-car-fleet](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0883-car-fleet) |
 | [0890-lemonade-change](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0890-lemonade-change) |
@@ -748,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-binary-tree-pruning](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0832-binary-tree-pruning) |
 | [0854-making-a-large-island](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0871-keys-and-rooms) |
+| [0881-loud-and-rich](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0881-loud-and-rich) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-leaf-similar-trees](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0904-leaf-similar-trees) |
@@ -1871,6 +1873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0871-keys-and-rooms) |
+| [0881-loud-and-rich](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0881-loud-and-rich) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1039-find-the-town-judge](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1039-find-the-town-judge) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1229-shortest-path-with-alternating-colors) |
@@ -2081,6 +2084,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0820-find-eventual-safe-states) |
+| [0881-loud-and-rich](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0881-loud-and-rich) |
 | [1558-course-schedule-iv](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2409-number-of-increasing-paths-in-a-grid) |
