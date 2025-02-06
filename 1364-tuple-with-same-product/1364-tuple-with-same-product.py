@@ -7,8 +7,11 @@ class Solution:
                     continue
                 prod=nums[i]*nums[j]
                 mp[prod]+=1
+
+        # pairnct= lets say $6=1+2+3
+        # 10=1+2+3+4
         res=0
         for cnt in mp.values():
-            pairs=(cnt*(cnt-1))//2
+            pairs=cnt*((cnt-1))//2 #formula based
             res+=8*pairs
         return res
