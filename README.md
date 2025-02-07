@@ -571,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1923-sentence-similarity-iii) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [1970-sorting-the-sentence](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1970-sorting-the-sentence) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2044-number-of-wonderful-substrings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2044-number-of-wonderful-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -1038,6 +1039,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1184-car-pooling) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -1411,6 +1413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2800-minimum-string-length-after-removing-substrings) |
