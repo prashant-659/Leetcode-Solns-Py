@@ -610,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3379-score-of-a-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3379-score-of-a-string) |
+| [3447-clear-digits](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3533-snake-in-matrix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3533-snake-in-matrix) |
@@ -1058,6 +1059,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3447-clear-digits) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3516-design-neighbor-sum-service](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3516-design-neighbor-sum-service) |
 | [3533-snake-in-matrix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3533-snake-in-matrix) |
@@ -1419,6 +1421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3447-clear-digits](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3447-clear-digits) |
 ## Interactive
 |  |
 | ------- |
