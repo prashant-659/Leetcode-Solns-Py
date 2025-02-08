@@ -9,14 +9,13 @@ class Solution:
         self.res=0
         def dfs(node):
             if not node:
-                return [0,0]
-            l_size, l_coins=dfs(node.left)
-            r_size, r_coins=dfs(node.right)
+                return 0 # extra_coins
+            l_coins=dfs(node.left)
+            r_coins=dfs(node.right)
 
-            size=1+l_size+r_size
-            coins=node.val+l_coins+r_coins
-            self.res+=abs(size-coins)
+            coins=l_coins+r_coins+node.val-1
+            self.res+=abs(coins)
 
-            return [size, coins]
+            return coins
         dfs(root)
         return self.res
