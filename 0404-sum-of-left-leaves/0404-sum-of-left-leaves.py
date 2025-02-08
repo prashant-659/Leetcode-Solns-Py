@@ -22,16 +22,23 @@ class Solution:
         #     return sum
             
 
-        def leftleaf(node, par):
-            if not node: return 0
-            if not node.left and not node.right:
-                if par and par.left==node:
-                    return node.val
-            left=leftleaf(node.left, node)
-            right=leftleaf(node.right, node)
-            return left+right
-        return leftleaf(root,None)
+        # def leftleaf(node, par):
+        #     if not node: return 0
+        #     if not node.left and not node.right:
+        #         if par and par.left==node:
+        #             return node.val
+        #     left=leftleaf(node.left, node)
+        #     right=leftleaf(node.right, node)
+        #     return left+right
+        # return leftleaf(root,None)
             
+        def check(node, isleft):
+            if not node:
+                return 0
+            if not  node.left and not node.right and isleft:
+                return node.val
+            return check(node.left, True)+check(node.right, False)
+        return check(root, False)
 
 
 
