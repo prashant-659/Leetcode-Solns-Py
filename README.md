@@ -681,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-leaf-similar-trees](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0904-leaf-similar-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0930-all-possible-full-binary-trees](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0930-all-possible-full-binary-trees) |
 | [0975-range-sum-of-bst](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0988-flip-equivalent-binary-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0998-check-completeness-of-a-binary-tree) |
@@ -940,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-leaf-similar-trees](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0904-leaf-similar-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0930-all-possible-full-binary-trees](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0930-all-possible-full-binary-trees) |
 | [0975-range-sum-of-bst](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0988-flip-equivalent-binary-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0998-check-completeness-of-a-binary-tree) |
@@ -1015,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0831-largest-sum-of-averages](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0831-largest-sum-of-averages) |
 | [0909-stone-game](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0909-stone-game) |
+| [0930-all-possible-full-binary-trees](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0930-all-possible-full-binary-trees) |
 | [0943-sum-of-subarray-minimums](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0967-minimum-falling-path-sum) |
 | [1020-longest-turbulent-subarray](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1020-longest-turbulent-subarray) |
@@ -1823,6 +1826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0241-different-ways-to-add-parentheses) |
 | [0342-power-of-four](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0342-power-of-four) |
 | [0795-k-th-symbol-in-grammar](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0795-k-th-symbol-in-grammar) |
+| [0930-all-possible-full-binary-trees](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0930-all-possible-full-binary-trees) |
 | [1197-parsing-a-boolean-expression](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Prefix Sum
@@ -1959,6 +1963,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0930-all-possible-full-binary-trees](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0930-all-possible-full-binary-trees) |
 | [1236-n-th-tribonacci-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1236-n-th-tribonacci-number) |
 | [1488-sort-integers-by-the-power-value](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1488-sort-integers-by-the-power-value) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2409-number-of-increasing-paths-in-a-grid) |
