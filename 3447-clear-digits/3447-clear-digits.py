@@ -6,9 +6,7 @@ class Solution:
 
         for i in range(1,len(s)):
             if stack and s[i].isdigit():
-                stack.pop()
-
-            
+                stack.pop()       
             else:   
                 stack.append(s[i])
         return "".join(stack)
