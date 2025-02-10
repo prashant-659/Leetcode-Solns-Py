@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1477-product-of-the-last-k-numbers](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1522-stone-game-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1522-stone-game-iii) |
@@ -1292,6 +1293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1236-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1370-count-number-of-nice-subarrays) |
 | [1395-minimum-time-visiting-all-points](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1395-minimum-time-visiting-all-points) |
+| [1477-product-of-the-last-k-numbers](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1477-product-of-the-last-k-numbers) |
 | [1522-stone-game-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1522-stone-game-iii) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1920-determine-color-of-a-chessboard-square) |
@@ -1851,6 +1853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1370-count-number-of-nice-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1477-product-of-the-last-k-numbers](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
@@ -1897,6 +1900,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-maximum-frequency-stack](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0931-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0937-online-stock-span) |
 | [1023-time-based-key-value-store](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1023-time-based-key-value-store) |
+| [1477-product-of-the-last-k-numbers](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2139-detect-squares](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2139-detect-squares) |
 | [2434-design-a-number-container-system](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2434-design-a-number-container-system) |
@@ -2111,6 +2115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0937-online-stock-span) |
+| [1477-product-of-the-last-k-numbers](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1477-product-of-the-last-k-numbers) |
 ## Geometry
 |  |
 | ------- |
