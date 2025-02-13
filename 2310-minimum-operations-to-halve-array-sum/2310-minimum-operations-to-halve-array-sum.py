@@ -6,11 +6,9 @@ class Solution:
         op=0
         while half>0:
             x=-heappop(nums2)
-            y=x/2.0
-            half-=y
-            heappush(nums2,-y) 
-        
+            x=x/2.0
+            half-=x
+            heappush(nums2,-x) 
             op+=1
-        print(nums2)
         return op
         
