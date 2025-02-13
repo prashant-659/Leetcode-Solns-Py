@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3321-type-of-triangle) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3373-maximum-prime-difference](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3373-maximum-prime-difference) |
@@ -1081,6 +1082,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2886-faulty-keyboard](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2886-faulty-keyboard) |
 | [3226-minimum-number-game](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3226-minimum-number-game) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -1679,6 +1681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2868-continuous-subarrays) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3226-minimum-number-game](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3226-minimum-number-game) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
