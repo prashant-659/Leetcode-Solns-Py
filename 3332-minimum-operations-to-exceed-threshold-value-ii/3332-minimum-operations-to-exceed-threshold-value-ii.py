@@ -11,7 +11,7 @@ class Solution:
             
             x=heappop(nums)
             y=heappop(nums)
-            if x>=k and y>=k:
+            if x>=k:
                 return op
             new=x*2+y
             heappush(nums,new)
