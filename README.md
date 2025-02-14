@@ -561,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1502-construct-k-palindrome-strings) |
 | [1508-longest-happy-prefix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1508-longest-happy-prefix) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1517-restore-the-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1517-restore-the-array) |
 | [1524-string-matching-in-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1524-string-matching-in-an-array) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1534-minimum-number-of-frogs-croaking) |
@@ -1230,6 +1231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0800-letter-case-permutation](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0800-letter-case-permutation) |
 | [0813-all-paths-from-source-to-target](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0813-all-paths-from-source-to-target) |
 | [1160-letter-tile-possibilities](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1160-letter-tile-possibilities) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Binary Search Tree
