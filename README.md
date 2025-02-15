@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1833-find-the-highest-altitude](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1833-find-the-highest-altitude) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -1055,6 +1056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2176-parallel-courses-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2176-parallel-courses-iii) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2554-minimum-total-distance-traveled](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2554-minimum-total-distance-traveled) |
