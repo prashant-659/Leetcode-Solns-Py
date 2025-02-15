@@ -1246,6 +1246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1337,6 +1338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2630-alternating-digit-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2630-alternating-digit-sum) |
 | [2716-prime-subtraction-operation](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2716-prime-subtraction-operation) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2812-find-the-maximum-achievable-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3172-divisible-and-non-divisible-sums-difference) |
