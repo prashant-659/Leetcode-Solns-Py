@@ -718,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-count-good-nodes-in-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2384-root-equals-sum-of-children](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2384-root-equals-sum-of-children) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -822,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2439-longest-cycle-in-a-graph](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2439-longest-cycle-in-a-graph) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -900,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-find-if-path-exists-in-graph](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2121-find-if-path-exists-in-graph) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2409-number-of-increasing-paths-in-a-grid) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -986,6 +989,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2384-root-equals-sum-of-children) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -1632,6 +1636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2434-design-a-number-container-system](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2434-design-a-number-container-system) |
 | [2444-longest-ideal-subsequence](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2444-longest-ideal-subsequence) |
 | [2448-count-number-of-bad-pairs](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2448-count-number-of-bad-pairs) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2479-meeting-rooms-iii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
