@@ -527,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0459-repeated-substring-pattern) |
 | [0468-validate-ip-address](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0468-validate-ip-address) |
+| [0516-longest-palindromic-subsequence](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0516-longest-palindromic-subsequence) |
 | [0539-minimum-time-difference](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -1040,6 +1041,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0583-delete-operation-for-two-strings) |
 | [0629-k-inverse-pairs-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0629-k-inverse-pairs-array) |
