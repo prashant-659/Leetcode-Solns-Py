@@ -6,8 +6,8 @@
 #         self.right = right
 class Solution:
     def amountOfTime(self, root: Optional[TreeNode], start: int) -> int:
+        
         graph=defaultdict(list)
-        node=root
         q=deque([root])
         while q:
             node=q.popleft()
@@ -19,11 +19,12 @@ class Solution:
                 graph[node.val].append(node.right.val)
                 graph[node.right.val].append(node.val)
                 q.append(node.right)
-        print(graph)
+
         qu = deque([(start, 0)])
         max_d=-1
         visit=set()
         visit.add(start)
+
         while qu:
             node, d=qu.popleft()
             max_d=max(max_d, d)
