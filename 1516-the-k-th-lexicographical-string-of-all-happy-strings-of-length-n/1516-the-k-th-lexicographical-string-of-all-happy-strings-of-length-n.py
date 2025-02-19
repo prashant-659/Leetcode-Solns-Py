@@ -20,4 +20,3 @@ class Solution:
         backtrack(n, k, "")
         return res 
 
-
