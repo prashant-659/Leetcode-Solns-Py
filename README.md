@@ -1372,6 +1372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2608-count-the-digits-that-divide-a-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2630-alternating-digit-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2630-alternating-digit-sum) |
+| [2649-count-total-number-of-colored-cells](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2812-find-the-maximum-achievable-number) |
