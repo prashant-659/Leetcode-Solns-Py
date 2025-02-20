@@ -124,51 +124,51 @@
 #         right = self._query(2 * node + 1, m + 1, end, l, r)
 #         return left & right
 
-class Solution:
-    def countSubarrays(self, nums, k):
-        return self.atLeastK(nums, k) - self.atLeastK(nums, k + 1)
+# class Solution:
+#     def countSubarrays(self, nums, k):
+#         return self.atLeastK(nums, k) - self.atLeastK(nums, k + 1)
 
-    def atLeastK(self, nums, k):
-        ans = 0
-        temp = [0] * 32  # Frequency array for bits
+#     def atLeastK(self, nums, k):
+#         ans = 0
+#         temp = [0] * 32  # Frequency array for bits
         
-        l = 0
-        for r in range(len(nums)):
-            for i in range(32):
-                if (1 << i) & nums[r]:
-                    temp[i] += 1
+#         l = 0
+#         for r in range(len(nums)):
+#             for i in range(32):
+#                 if (1 << i) & nums[r]:
+#                     temp[i] += 1
             
-            while (r - l + 1) > 0 and self.calc(temp, r - l + 1) < k:
-                for i in range(32):
-                    if (1 << i) & nums[l]:
-                        temp[i] -= 1
-                l += 1
+#             while (r - l + 1) > 0 and self.calc(temp, r - l + 1) < k:
+#                 for i in range(32):
+#                     if (1 << i) & nums[l]:
+#                         temp[i] -= 1
+#                 l += 1
             
-            ans += (r - l + 1)
+#             ans += (r - l + 1)
 
-        return ans
+#         return ans
 
-    # Function to calculate the AND from frequency vector
-    def calc(self, temp, w):
-        ans = 0
-        for i in range(32):
-            if temp[i] == w:
-                ans += (1 << i)
-        return ans
+#     # Function to calculate the AND from frequency vector
+#     def calc(self, temp, w):
+#         ans = 0
+#         for i in range(32):
+#             if temp[i] == w:
+#                 ans += (1 << i)
+#         return ans
 
-        # st = SegTree(nums)  # Initialize the Segment Tree
-        # ans = 0
-#         n = len(nums)
+#         # st = SegTree(nums)  # Initialize the Segment Tree
+#         # ans = 0
+# #         n = len(nums)
 
-#         for i in range(n):
-#             l, r = i, n - 1
-#             valid_end = -1  # To store the valid end for the subarray
+# #         for i in range(n):
+# #             l, r = i, n - 1
+# #             valid_end = -1  # To store the valid end for the subarray
             
-#             while l <= r:
-#                 m = (l + r) // 2
-#                 val = st.query(i, m)
+# #             while l <= r:
+# #                 m = (l + r) // 2
+# #                 val = st.query(i, m)
                 
-#                 if val > k:
+# #                 if val > k:
 #                     l = m + 1
 #                 else:
 #                     if val == k:
@@ -195,3 +195,20 @@ class Solution:
 #                 ans += (ed - valid_end + 1)
                 
 #         return ans
+from collections import defaultdict
+
+class Solution:
+    def countSubarrays(self, nums, k):
+        res = 0
+        mp = defaultdict(int)
+        for num in nums:
+            temp = defaultdict(int)
+            temp[num] += 1
+            
+            for key, value in mp.items():
+                temp[key & num] += value
+
+            res += temp[k]
+            mp = temp
+        
+        return res
