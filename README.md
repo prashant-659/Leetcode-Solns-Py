@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1185-find-in-mountain-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1185-find-in-mountain-array) |
+| [1321-get-equal-substrings-within-budget](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1321-get-equal-substrings-within-budget) |
 | [1397-search-suggestions-system](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1397-search-suggestions-system) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1304-longest-happy-string) |
+| [1321-get-equal-substrings-within-budget](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1321-get-equal-substrings-within-budget) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1397-search-suggestions-system](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1397-search-suggestions-system) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -1947,6 +1949,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1046-max-consecutive-ones-iii) |
 | [1184-car-pooling](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1184-car-pooling) |
+| [1321-get-equal-substrings-within-budget](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1321-get-equal-substrings-within-budget) |
 | [1370-count-number-of-nice-subarrays](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1370-count-number-of-nice-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -2107,6 +2110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0966-binary-subarrays-with-sum) |
 | [1020-longest-turbulent-subarray](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1020-longest-turbulent-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1046-max-consecutive-ones-iii) |
+| [1321-get-equal-substrings-within-budget](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1321-get-equal-substrings-within-budget) |
 | [1370-count-number-of-nice-subarrays](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
