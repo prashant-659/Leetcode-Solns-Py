@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3483-alternating-groups-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3483-alternating-groups-ii) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3516-design-neighbor-sum-service](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3516-design-neighbor-sum-service) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -2128,6 +2129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
+| [3483-alternating-groups-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
