@@ -1,9 +1,9 @@
 class Solution:
     def destCity(self, paths: List[List[str]]) -> str:
-        mp=defaultdict(list)
+        mp=defaultdict(str)
         for src, dst in paths:
-            mp[src].append(dst)
+            mp[src]=dst
         for src in mp.keys():
-            if mp[src][0] not in mp:
-                return "".join(mp[src][0])
+            if mp[src] not in mp:
+                return mp[src]
         
