@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1547-destination-city](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1547-destination-city) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1524-string-matching-in-an-array) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1547-destination-city](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1547-destination-city) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1647-can-convert-string-in-k-moves](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1647-can-convert-string-in-k-moves) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -1646,6 +1648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1502-construct-k-palindrome-strings) |
+| [1547-destination-city](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1547-destination-city) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
