@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1940-maximum-xor-for-each-query](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1940-maximum-xor-for-each-query) |
 | [1962-single-threaded-cpu](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1962-single-threaded-cpu) |
 | [1972-rotating-the-box](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1972-rotating-the-box) |
@@ -1380,6 +1381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [2155-find-missing-observations](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2155-find-missing-observations) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
@@ -2237,6 +2239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1014-k-closest-points-to-origin) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1395-minimum-time-visiting-all-points](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1395-minimum-time-visiting-all-points) |
+| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 ## Doubly-Linked List
