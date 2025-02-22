@@ -1,8 +1,7 @@
 class Solution:
-    def findAndReplacePattern(self, words: List[str], pattern: str) -> List[str]:
-        def translate(pattern):
-            trans = {}
-            return tuple(trans.setdefault(c,len(trans)) for c in pattern)
-            
-        to_match = translate(pattern)
-        return [word for word in words if to_match == translate(word)]
+    def findAndReplacePattern(self, words: List[str], p: str) -> List[str]:
+        def f(w):
+            m={}
+            return [m.setdefault(c, len(m)) for c in w]
+        fp=f(p)
+        return [w for w in words if f(w)==fp]
