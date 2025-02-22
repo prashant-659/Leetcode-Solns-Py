@@ -6,70 +6,29 @@
 #         self.right = right
 class Solution:
     def recoverFromPreorder(self, traversal: str) -> Optional[TreeNode]:
-        # def dash_count(s, from):
-        #     depth=0
-        #     for i in range(from, len(s)):
-        #         if s[i]=="-":
-        #             depth+=1
-        #         else:
-        #             break
-
-        #     return depth
-
-        # mode=Dash
-        # stack=[]
-        # curNum=0
-        # curDash=0
-        # dashes_before
-        # for c in traversal:
-
-        #     if c.isnumeric():
-        def parse(traversal):
-            r=[]
-            stack=[]
-            cur_Dash=0
-            cur_Num=0
-            Num=0
-            Dash=1
-            mode=Dash
-
-            for c in traversal:
-                if c=="-":
-                    if mode==Num:
-                        r.append((cur_Dash, cur_Num))
-                        cur_Num=0
-                        cur_Dash=0
-                    mode=Dash
-                    cur_Dash+=1
-                else:
-                    mode=Num
-                    cur_Num=cur_Num*10+int(c)
-            r.append((cur_Dash, cur_Num))
-        
-            return r
-        r=parse(traversal)
-
+        dashes=0
         stack=[]
-        for dashes, number in r:
-            node=TreeNode(number)
-            if dashes>=len(stack):
-                
-                if len(stack)>0:
-                    if stack[-1].left is None:
-                        stack[-1].left=node
-                    else:
-                        stack[-1].right=node
-                stack.append(node)
+        i=0
+        while i<len(traversal):
+            if traversal[i]=="-":
+                dashes+=1
+                i+=1
             else:
+                j=i
+                while j<len(traversal) and traversal[j]!="-":
+                    j+=1
+                val=int(traversal[i:j])
+                node=TreeNode(val)
+
                 while len(stack)>dashes:
                     stack.pop()
-                if stack[-1].left is None:
+                if stack and not stack[-1].left:
                     stack[-1].left=node
-                else:
+                elif stack:
                     stack[-1].right=node
                 stack.append(node)
+                i=j
+                dashes=0
         return stack[0]
-
-
-            
-
+                
+                
