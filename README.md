@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2554-minimum-total-distance-traveled) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2586-longest-square-streak-in-an-array) |
@@ -745,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -849,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -929,6 +932,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -2060,6 +2064,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2439-longest-cycle-in-a-graph](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2439-longest-cycle-in-a-graph) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2803-modify-graph-edge-weights) |
