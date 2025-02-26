@@ -630,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2232-adding-spaces-to-a-string) |
+| [2286-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2286-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2300-construct-string-with-repeat-limit) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2326-sum-of-scores-of-built-strings) |
@@ -1119,6 +1120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2176-parallel-courses-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2176-parallel-courses-iii) |
+| [2286-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2286-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2444-longest-ideal-subsequence](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2444-longest-ideal-subsequence) |
 | [2554-minimum-total-distance-traveled](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2554-minimum-total-distance-traveled) |
