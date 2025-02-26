@@ -1,16 +1,18 @@
 class Solution:
     def maxAbsoluteSum(self, nums: List[int]) -> int:
         cur=0
-        cur2=0
-        maxSum=-math.inf
-        maxSum2=math.inf
+        maxi=-math.inf
         for n in nums:
-            cur = max(cur, 0)
-            cur += n
-            maxSum = max(maxSum, cur)
+            cur=max(cur,0)
+            cur+=n
+            maxi=max(cur, maxi)
+        cur=0 
+        max2=math.inf
+        for n in nums:
+            cur=min(cur, 0)
 
-            cur2 = min(cur2, 0)
-            cur2 += n
-            maxSum2 = min(maxSum2, cur2)
-           
-        return max(maxSum, abs(maxSum2))
+            cur+=n
+            max2=min(cur, max2)
+        return max(maxi, abs(max2))
+        
+            
