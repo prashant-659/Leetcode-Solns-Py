@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1002-maximum-width-ramp) |
 | [1014-k-closest-points-to-origin](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1018-largest-perimeter-triangle](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1018-largest-perimeter-triangle) |
 | [1020-longest-turbulent-subarray](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1020-longest-turbulent-subarray) |
 | [1025-minimum-cost-for-tickets](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1025-minimum-cost-for-tickets) |
 | [1028-interval-list-intersections](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1028-interval-list-intersections) |
@@ -1252,6 +1253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0917-boats-to-save-people) |
+| [1018-largest-perimeter-triangle](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1095-two-city-scheduling) |
 | [1285-balance-a-binary-search-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1285-balance-a-binary-search-tree) |
 | [1304-longest-happy-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1304-longest-happy-string) |
@@ -1391,6 +1393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0909-stone-game) |
 | [1010-powerful-integers](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1010-powerful-integers) |
 | [1014-k-closest-points-to-origin](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1014-k-closest-points-to-origin) |
+| [1018-largest-perimeter-triangle](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1018-largest-perimeter-triangle) |
 | [1070-convert-to-base-2](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1070-convert-to-base-2) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1195-distribute-candies-to-people](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1195-distribute-candies-to-people) |
@@ -1476,6 +1479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1014-k-closest-points-to-origin) |
+| [1018-largest-perimeter-triangle](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1095-two-city-scheduling) |
 | [1184-car-pooling](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1184-car-pooling) |
 | [1217-relative-sort-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1217-relative-sort-array) |
