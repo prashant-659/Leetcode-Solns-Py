@@ -1,37 +1,13 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        # start,end=0,len(nums)-1
-
-        # while start!=end:
-        #     sum=nums[start]+nums[end]
-        #     if sum>target:
-        #         end-=1
-        #     elif sum<target:
-        #         start+=1
-        #     else:
-        #         return[start+1,end+1]
-
-
-
-
-
-
-        start,end=0,len(nums)-1
-        while start<end:
-            sum_t=nums[start]+nums[end]
-
-            if sum_t>target:
-                end-=1
-            elif sum_t<target:
-                start+=1
+        l=0
+        r=len(nums)-1
+        while l<r:
+            x=nums[l]
+            y=nums[r]
+            if y==target-x:
+                return [l+1, r+1]
+            elif y>target-x:
+                r-=1
             else:
-                return [start+1,end+1]
-
-
-
-
-
-
-
-
-        
+                l+=1
