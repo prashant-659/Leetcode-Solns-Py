@@ -1,17 +1,18 @@
 # Write your MySQL query statement below
-with cte as(
-    select distinct visited_on,
-            sum(amount) over(partition by visited_on order by visited_on) As am 
-            from customer
+
+Select visited_on,
+        (
+            Select sum(amount) from customer
+            where visited_on between date_sub(c.visited_on, Interval 6 Day) and c.visited_on #7th jan
+        ) as amount,
+        Round((
+            Select sum(amount)/7 from customer
+            where visited_on between date_sub(c.visited_on, Interval 6 Day) and c.visited_on #7th jan
+        ),2) as average_amount
+From Customer c
+where visited_on>=(
+    Select date_add(min(visited_on), interval 6 day)
+    from Customer
 )
-select  visited_on,amount, 
-        round(average_amount,2)as average_amount from(
-            Select visited_on,
-            sum(am) over(order by visited_on rows between 6 preceding and current row) as amount,
-            avg(sum(am)) over(order by visited_on rows between 6 preceding and current row) as average_amount,
-            count(*) over(order by visited_on rows between 6 preceding and current row ) as cnt
-            from cte
-            group by visited_on
-        ) l
-where cnt=7
-order by visited_on;
+group by visited_on
+order by visited_on
