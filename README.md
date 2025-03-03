@@ -1433,6 +1433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+| [2610-closest-prime-numbers-in-range](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2610-closest-prime-numbers-in-range) |
 | [2630-alternating-digit-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2630-alternating-digit-sum) |
 | [2649-count-total-number-of-colored-cells](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2716-prime-subtraction-operation) |
@@ -2411,6 +2412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0258-add-digits) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+| [2610-closest-prime-numbers-in-range](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3373-maximum-prime-difference](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3373-maximum-prime-difference) |
