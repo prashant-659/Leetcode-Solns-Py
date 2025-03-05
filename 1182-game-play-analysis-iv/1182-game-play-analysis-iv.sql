@@ -1,3 +1,4 @@
+-- # Write your MySQL query statement below
 # Write your MySQL query statement below
 with cte as
 (
