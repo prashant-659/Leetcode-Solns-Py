@@ -1,18 +1,16 @@
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
         res=[]
-
-        #base
-        if len(nums)==1:
-            return [nums[:]] #deep copr
-
-        for i in range(len(nums)):
-            n=nums.pop(0)
-            perms=self.permute(nums)
-
-            for perm in perms:
-                perm.append(n)
-            res.extend(perms)
-            nums.append(n)
-        return res
+        def dfs(comb):
+            if len(comb)==len(nums):
+                res.append(comb[:])
+                return
             
+            for n in nums:
+                if n not in comb:
+                    comb.append(n)
+                    dfs(comb)
+                    comb.pop()
+            
+        dfs([])
+        return res
