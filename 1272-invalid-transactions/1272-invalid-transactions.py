@@ -16,9 +16,9 @@ class Solution:
         for i in range(n):
             if amount[i]>1000:
                 index.add(i)
-            for j in range(n):
-                if i==j:
-                    continue
+            for j in range(i+1,n):
+                # if i==j:
+                #     continue
                 if  name[i]==name[j] and city[i]!=city[j] and abs(time[i]-time[j])<=60:
                     index.add(j)
                     index.add(i)
