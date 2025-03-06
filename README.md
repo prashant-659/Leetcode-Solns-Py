@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2868-continuous-subarrays) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [3080-split-array-into-maximum-number-of-subarrays](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3080-split-array-into-maximum-number-of-subarrays) |
+| [3107-maximum-spending-after-buying-items](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3107-maximum-spending-after-buying-items) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3209-minimum-number-of-coins-for-fruits) |
@@ -1303,6 +1304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2716-prime-subtraction-operation) |
 | [3080-split-array-into-maximum-number-of-subarrays](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3080-split-array-into-maximum-number-of-subarrays) |
+| [3107-maximum-spending-after-buying-items](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3107-maximum-spending-after-buying-items) |
 | [3195-separate-black-and-white-balls](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3195-separate-black-and-white-balls) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3228-maximum-size-of-a-set-after-removals) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3390-minimum-rectangles-to-cover-points) |
@@ -1539,6 +1541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
+| [3107-maximum-spending-after-buying-items](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3107-maximum-spending-after-buying-items) |
 | [3226-minimum-number-game](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3226-minimum-number-game) |
 | [3291-find-if-array-can-be-sorted](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3291-find-if-array-can-be-sorted) |
 | [3321-type-of-triangle](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3321-type-of-triangle) |
@@ -1840,6 +1843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2803-modify-graph-edge-weights) |
 | [2868-continuous-subarrays](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2868-continuous-subarrays) |
+| [3107-maximum-spending-after-buying-items](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3107-maximum-spending-after-buying-items) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3226-minimum-number-game](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3226-minimum-number-game) |
@@ -1957,6 +1961,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3107-maximum-spending-after-buying-items](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3107-maximum-spending-after-buying-items) |
 | [3227-find-missing-and-repeated-values](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3227-find-missing-and-repeated-values) |
 | [3272-find-the-grid-of-region-average](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3272-find-the-grid-of-region-average) |
 | [3398-make-a-square-with-the-same-color](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3398-make-a-square-with-the-same-color) |
