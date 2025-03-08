@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1256-rank-transform-of-an-array) |
 | [1272-invalid-transactions](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1272-invalid-transactions) |
 | [1325-path-with-maximum-probability](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1325-path-with-maximum-probability) |
+| [1331-path-with-maximum-gold](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1331-path-with-maximum-gold) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -1347,6 +1348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0800-letter-case-permutation](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0800-letter-case-permutation) |
 | [0813-all-paths-from-source-to-target](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0813-all-paths-from-source-to-target) |
 | [1160-letter-tile-possibilities](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1160-letter-tile-possibilities) |
+| [1331-path-with-maximum-gold](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1331-path-with-maximum-gold) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2107-find-unique-binary-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2107-find-unique-binary-string) |
@@ -1954,6 +1956,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1224-minimum-falling-path-sum-ii) |
+| [1331-path-with-maximum-gold](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1331-path-with-maximum-gold) |
 | [1396-count-servers-that-communicate](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
