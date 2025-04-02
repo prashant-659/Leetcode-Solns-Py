@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3001-apply-operations-to-maximize-score](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3001-apply-operations-to-maximize-score) |
 | [3080-split-array-into-maximum-number-of-subarrays](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3080-split-array-into-maximum-number-of-subarrays) |
 | [3107-maximum-spending-after-buying-items](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3107-maximum-spending-after-buying-items) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3209-minimum-number-of-coins-for-fruits) |
