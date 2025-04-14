@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
+| [1656-count-good-triplets](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1677-matrix-diagonal-sum) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
@@ -2424,6 +2425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1010-powerful-integers](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1010-powerful-integers) |
+| [1656-count-good-triplets](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1656-count-good-triplets) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
