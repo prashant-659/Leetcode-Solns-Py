@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2308-divide-array-into-equal-pairs) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2310-minimum-operations-to-halve-array-sum) |
