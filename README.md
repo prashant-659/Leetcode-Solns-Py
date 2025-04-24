@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2792-neighboring-bitwise-xor](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2868-continuous-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
@@ -1821,6 +1822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -2290,6 +2292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2868-continuous-subarrays) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
