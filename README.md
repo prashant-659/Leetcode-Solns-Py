@@ -507,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0696-count-binary-substrings) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0768-partition-labels](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0908-middle-of-the-linked-list) |
@@ -608,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0692-top-k-frequent-words) |
+| [0696-count-binary-substrings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0696-count-binary-substrings) |
 | [0753-open-the-lock](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0753-open-the-lock) |
 | [0768-partition-labels](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0768-partition-labels) |
 | [0800-letter-case-permutation](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0800-letter-case-permutation) |
