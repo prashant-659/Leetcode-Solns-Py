@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1046-max-consecutive-ones-iii) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1063-best-sightseeing-pair) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1071-binary-prefix-divisible-by-5) |
@@ -1324,6 +1325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0917-boats-to-save-people) |
 | [1018-largest-perimeter-triangle](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1018-largest-perimeter-triangle) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1095-two-city-scheduling](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1095-two-city-scheduling) |
 | [1285-balance-a-binary-search-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1285-balance-a-binary-search-tree) |
 | [1304-longest-happy-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1304-longest-happy-string) |
