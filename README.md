@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1039-find-the-town-judge) |
+| [1044-find-common-characters](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -628,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-find-and-replace-pattern](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0926-find-and-replace-pattern) |
 | [0952-word-subsets](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0952-word-subsets) |
 | [1023-time-based-key-value-store](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1023-time-based-key-value-store) |
+| [1044-find-common-characters](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1044-find-common-characters) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1160-letter-tile-possibilities](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1160-letter-tile-possibilities) |
@@ -1771,6 +1773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1023-time-based-key-value-store) |
 | [1034-subarrays-with-k-different-integers](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1034-subarrays-with-k-different-integers) |
 | [1039-find-the-town-judge](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1039-find-the-town-judge) |
+| [1044-find-common-characters](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1044-find-common-characters) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1160-letter-tile-possibilities) |
 | [1207-delete-nodes-and-return-forest](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1207-delete-nodes-and-return-forest) |
