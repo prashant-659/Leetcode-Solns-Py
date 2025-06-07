@@ -731,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3379-score-of-a-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3379-score-of-a-string) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3451-string-compression-iii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -1380,6 +1381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-separate-black-and-white-balls](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3195-separate-black-and-white-balls) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3228-maximum-size-of-a-set-after-removals) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3390-minimum-rectangles-to-cover-points) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3647-zero-array-transformation-iii) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3764-maximum-sum-with-at-most-k-elements) |
@@ -1694,6 +1696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3001-apply-operations-to-maximize-score](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3447-clear-digits) |
 ## Interactive
 |  |
@@ -1874,6 +1877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3516-design-neighbor-sum-service](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3516-design-neighbor-sum-service) |
@@ -1959,6 +1963,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3226-minimum-number-game](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3226-minimum-number-game) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
