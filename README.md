@@ -744,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3684-substring-matching-pattern](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3684-substring-matching-pattern) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Tree
 |  |
@@ -2198,6 +2199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3639-zero-array-transformation-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3647-zero-array-transformation-iii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Design
 |  |
 | ------- |
@@ -2365,6 +2367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -2501,6 +2504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2998-count-symmetric-integers) |
 | [3398-make-a-square-with-the-same-color](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3398-make-a-square-with-the-same-color) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Database
 |  |
 | ------- |
