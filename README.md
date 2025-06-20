@@ -714,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2615-make-number-of-distinct-characters-equal](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2615-make-number-of-distinct-characters-equal) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2736-minimum-additions-to-make-valid-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2755-extra-characters-in-a-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -1211,6 +1212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-minimum-total-distance-traveled](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2586-longest-square-streak-in-an-array) |
+| [2736-minimum-additions-to-make-valid-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2755-extra-characters-in-a-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3209-minimum-number-of-coins-for-fruits) |
@@ -1382,6 +1384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2716-prime-subtraction-operation) |
+| [2736-minimum-additions-to-make-valid-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3001-apply-operations-to-maximize-score) |
 | [3080-split-array-into-maximum-number-of-subarrays](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3080-split-array-into-maximum-number-of-subarrays) |
 | [3107-maximum-spending-after-buying-items](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3107-maximum-spending-after-buying-items) |
@@ -1703,6 +1706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2736-minimum-additions-to-make-valid-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3001-apply-operations-to-maximize-score](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
