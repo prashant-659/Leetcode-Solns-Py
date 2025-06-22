@@ -699,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2232-adding-spaces-to-a-string) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2286-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2286-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2300-construct-string-with-repeat-limit) |
@@ -1249,6 +1250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2155-find-missing-observations) |
 | [2232-adding-spaces-to-a-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2232-adding-spaces-to-a-string) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2411-spiral-matrix-iv) |
