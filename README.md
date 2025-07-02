@@ -752,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3533-snake-in-matrix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3533-snake-in-matrix) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3684-substring-matching-pattern](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3684-substring-matching-pattern) |
@@ -1226,6 +1227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 ## Simulation
@@ -2226,6 +2228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3427-special-array-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3427-special-array-ii) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3647-zero-array-transformation-iii) |
