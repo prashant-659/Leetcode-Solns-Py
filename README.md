@@ -1279,6 +1279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3516-design-neighbor-sum-service](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3516-design-neighbor-sum-service) |
 | [3533-snake-in-matrix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3533-snake-in-matrix) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Bit Manipulation
 |  |
@@ -1332,6 +1333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Greedy
 |  |
 | ------- |
@@ -1565,6 +1567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3593-find-the-maximum-factor-score-of-array) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -2179,6 +2182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-all-possible-full-binary-trees](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0930-all-possible-full-binary-trees) |
 | [1197-parsing-a-boolean-expression](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Prefix Sum
 |  |
 | ------- |
