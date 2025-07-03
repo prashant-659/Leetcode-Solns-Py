@@ -8,4 +8,3 @@ class Solution:
                 gen_str+=next_w
             word+=gen_str
         return word[k-1]
-
