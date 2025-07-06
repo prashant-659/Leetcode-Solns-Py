@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1972-rotating-the-box) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1977-minimum-interval-to-include-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2018-minimum-space-wasted-from-packaging](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2018-minimum-space-wasted-from-packaging) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2026-merge-triplets-to-form-target-triplet) |
@@ -1862,6 +1863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2044-number-of-wonderful-substrings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2044-number-of-wonderful-substrings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -2264,6 +2266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2139-detect-squares](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2139-detect-squares) |
 | [2434-design-a-number-container-system](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2434-design-a-number-container-system) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2678-design-graph-with-shortest-path-calculator) |
