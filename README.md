@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1477-product-of-the-last-k-numbers](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1477-product-of-the-last-k-numbers) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1522-stone-game-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1522-stone-game-iii) |
@@ -1371,6 +1372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1285-balance-a-binary-search-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1285-balance-a-binary-search-tree) |
 | [1304-longest-happy-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1304-longest-happy-string) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
@@ -1630,6 +1632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1397-search-suggestions-system](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1397-search-suggestions-system) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1488-sort-integers-by-the-power-value](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1488-sort-integers-by-the-power-value) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1561-rearrange-words-in-a-sentence) |
@@ -1973,6 +1976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1325-path-with-maximum-probability) |
 | [1397-search-suggestions-system](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1397-search-suggestions-system) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1962-single-threaded-cpu](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1962-single-threaded-cpu) |
