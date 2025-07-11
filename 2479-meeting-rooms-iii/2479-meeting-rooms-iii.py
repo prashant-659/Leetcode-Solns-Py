@@ -21,4 +21,3 @@ class Solution:
                 #a room is available
 
         return count.index(max(count))
-
