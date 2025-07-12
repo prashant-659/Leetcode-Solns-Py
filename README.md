@@ -1216,6 +1216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2176-parallel-courses-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2176-parallel-courses-iii) |
 | [2286-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2286-minimum-time-to-remove-all-cars-containing-illegal-goods) |
@@ -2351,6 +2352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-all-possible-full-binary-trees](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0930-all-possible-full-binary-trees) |
 | [1236-n-th-tribonacci-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1236-n-th-tribonacci-number) |
 | [1488-sort-integers-by-the-power-value](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1488-sort-integers-by-the-power-value) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Union Find
 |  |
