@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3483-alternating-groups-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3516-design-neighbor-sum-service](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3516-design-neighbor-sum-service) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -1235,6 +1236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3629-total-characters-in-string-after-transformations-i) |
