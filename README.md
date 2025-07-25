@@ -427,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3764-maximum-sum-with-at-most-k-elements) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 ## Binary Search
 |  |
@@ -1430,6 +1431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3764-maximum-sum-with-at-most-k-elements) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Backtracking
 |  |
 | ------- |
@@ -1947,6 +1949,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Divide and Conquer
 |  |
 | ------- |
