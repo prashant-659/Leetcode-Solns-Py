@@ -1,24 +1,26 @@
 class Solution:
     def totalFruit(self, fruits: List[int]) -> int:
-        if not fruits:
-            return 0
-        # if len(fruits)==1:
-        #     return 1 
-        mp=defaultdict()
-        i,j=0,0
-        res=0
-        while j<len(fruits):
-            mp[fruits[j]]=1+mp.get(fruits[j],0) 
-            if len(mp)>2:
-                mp[fruits[i]]-=1
-                if mp[fruits[i]]==0:
-                    del mp[fruits[i]]
-                i+=1
-                
-            if len(mp)<=2:
-                res=max(res,j-i+1)
-            j+=1
-        return res
-
-                    
-
+        # l=0
+        # maxi=-1
+        # mp=defaultdict(int)
+        # for r in range(len(fruits)):
+        #     mp[fruits[r]]+=1
+        #     if len(mp)>2:
+        #         mp[fruits[l]]-=1
+        #         if mp[l]==0:
+        #             del mp[fruits[l]]
+        #         l+=1
+        #     maxi = max(maxi, r - l + 1)
+        # return maxi
+        l = 0
+        maxi = -1
+        mp = defaultdict(int)
+        for r in range(len(fruits)):
+            mp[fruits[r]] += 1
+            while len(mp) > 2:
+                mp[fruits[l]] -= 1
+                if mp[fruits[l]] == 0:
+                    del mp[fruits[l]]
+                l += 1
+            maxi = max(maxi, r - l + 1)
+        return maxi
