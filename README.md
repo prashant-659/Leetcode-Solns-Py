@@ -431,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3791-fruits-into-baskets-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3791-fruits-into-baskets-iii) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 ## Binary Search
 |  |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-special-array-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3427-special-array-ii) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 | [3643-zero-array-transformation-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3643-zero-array-transformation-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3791-fruits-into-baskets-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -2721,6 +2723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0732-my-calendar-iii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
+| [3791-fruits-into-baskets-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3791-fruits-into-baskets-iii) |
 ## Ordered Set
 |  |
 | ------- |
@@ -2732,6 +2735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2434-design-a-number-container-system](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2868-continuous-subarrays) |
+| [3791-fruits-into-baskets-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3791-fruits-into-baskets-iii) |
 ## Counting Sort
 |  |
 | ------- |
