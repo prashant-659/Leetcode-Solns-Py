@@ -1531,6 +1531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0279-perfect-squares) |
 | [0313-super-ugly-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0313-super-ugly-number) |
 | [0319-bulb-switcher](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0319-bulb-switcher) |
+| [0326-power-of-three](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0367-valid-perfect-square) |
@@ -2224,6 +2225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0241-different-ways-to-add-parentheses) |
+| [0326-power-of-three](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0342-power-of-four) |
 | [0795-k-th-symbol-in-grammar](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0795-k-th-symbol-in-grammar) |
 | [0930-all-possible-full-binary-trees](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0930-all-possible-full-binary-trees) |
