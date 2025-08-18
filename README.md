@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0658-find-k-closest-elements) |
+| [0679-24-game](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0682-baseball-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0690-employee-importance](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0690-employee-importance) |
@@ -1467,6 +1468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0212-word-search-ii) |
 | [0306-additive-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0306-additive-number) |
 | [0494-target-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0494-target-sum) |
+| [0679-24-game](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0679-24-game) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0800-letter-case-permutation](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0800-letter-case-permutation) |
 | [0813-all-paths-from-source-to-target](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0813-all-paths-from-source-to-target) |
@@ -1549,6 +1551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0593-valid-square](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0593-valid-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0670-maximum-swap) |
+| [0679-24-game](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0679-24-game) |
 | [0795-k-th-symbol-in-grammar](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0795-k-th-symbol-in-grammar) |
 | [0805-escape-the-ghosts](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0805-escape-the-ghosts) |
 | [0900-reordered-power-of-2](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0900-reordered-power-of-2) |
