@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2411-spiral-matrix-iv](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2411-spiral-matrix-iv) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -1583,6 +1584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2448-count-number-of-bad-pairs) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2608-count-the-digits-that-divide-a-number) |
