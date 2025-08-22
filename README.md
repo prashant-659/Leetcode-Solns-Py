@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3430-count-days-without-meetings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3483-alternating-groups-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3483-alternating-groups-ii) |
@@ -2187,6 +2188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3227-find-missing-and-repeated-values) |
 | [3272-find-the-grid-of-region-average](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3272-find-the-grid-of-region-average) |
 | [3398-make-a-square-with-the-same-color](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3398-make-a-square-with-the-same-color) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3516-design-neighbor-sum-service](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3516-design-neighbor-sum-service) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
