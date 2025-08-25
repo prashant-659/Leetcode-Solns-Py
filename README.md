@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0506-relative-ranks) |
@@ -1274,6 +1275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0412-fizz-buzz) |
+| [0498-diagonal-traverse](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0498-diagonal-traverse) |
 | [0592-fraction-addition-and-subtraction](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0592-fraction-addition-and-subtraction) |
 | [0657-robot-return-to-origin](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0682-baseball-game) |
@@ -2151,6 +2153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0463-island-perimeter) |
+| [0498-diagonal-traverse](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0498-diagonal-traverse) |
 | [0695-max-area-of-island](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0695-max-area-of-island) |
 | [0787-sliding-puzzle](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0854-making-a-large-island) |
