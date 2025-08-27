@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3764-maximum-sum-with-at-most-k-elements) |
@@ -1266,6 +1267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Simulation
 |  |
 | ------- |
@@ -2199,6 +2201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Linked List
 |  |
@@ -2416,6 +2419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1488-sort-integers-by-the-power-value](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1488-sort-integers-by-the-power-value) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2409-number-of-increasing-paths-in-a-grid) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Union Find
 |  |
 | ------- |
