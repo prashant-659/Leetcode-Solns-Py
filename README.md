@@ -439,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3748-sort-matrix-by-diagonals) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3764-maximum-sum-with-at-most-k-elements) |
@@ -1378,6 +1379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Greedy
 |  |
 | ------- |
@@ -1629,6 +1631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3830-find-closest-person) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
