@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2411-spiral-matrix-iv](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2411-spiral-matrix-iv) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2429-design-a-food-rating-system](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2465-shifting-letters-ii) |
@@ -747,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2326-sum-of-scores-of-built-strings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2326-sum-of-scores-of-built-strings) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2429-design-a-food-rating-system](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2429-design-a-food-rating-system) |
 | [2444-longest-ideal-subsequence](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2444-longest-ideal-subsequence) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -1964,6 +1966,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2308-divide-array-into-equal-pairs) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2429-design-a-food-rating-system](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2434-design-a-number-container-system) |
 | [2444-longest-ideal-subsequence](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2444-longest-ideal-subsequence) |
 | [2448-count-number-of-bad-pairs](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2448-count-number-of-bad-pairs) |
@@ -2077,6 +2080,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2429-design-a-food-rating-system](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2479-meeting-rooms-iii) |
@@ -2371,6 +2375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2139-detect-squares](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2139-detect-squares) |
+| [2429-design-a-food-rating-system](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2434-design-a-number-container-system) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [3516-design-neighbor-sum-service](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3516-design-neighbor-sum-service) |
@@ -2806,6 +2811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0732-my-calendar-iii) |
 | [0931-maximum-frequency-stack](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0931-maximum-frequency-stack) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2429-design-a-food-rating-system](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2868-continuous-subarrays) |
 | [3791-fruits-into-baskets-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3791-fruits-into-baskets-iii) |
