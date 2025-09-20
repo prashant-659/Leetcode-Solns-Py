@@ -449,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3791-fruits-into-baskets-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3791-fruits-into-baskets-iii) |
+| [3797-design-spreadsheet](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3827-implement-router) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 ## Binary Search
@@ -800,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3797-design-spreadsheet](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Tree
 |  |
@@ -2017,6 +2019,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3797-design-spreadsheet](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
@@ -2241,6 +2244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3748-sort-matrix-by-diagonals) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3764-maximum-sum-with-at-most-k-elements) |
+| [3797-design-spreadsheet](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3797-design-spreadsheet) |
 ## Linked List
 |  |
 | ------- |
@@ -2382,6 +2386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2434-design-a-number-container-system](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2434-design-a-number-container-system) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [3516-design-neighbor-sum-service](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3516-design-neighbor-sum-service) |
+| [3797-design-spreadsheet](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3827-implement-router) |
 ## Graph
 |  |
