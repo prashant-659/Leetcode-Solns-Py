@@ -449,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3791-fruits-into-baskets-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3827-implement-router) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 ## Binary Search
 |  |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 | [3643-zero-array-transformation-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3643-zero-array-transformation-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3827-implement-router) |
 ## Two Pointers
 |  |
 | ------- |
@@ -2015,6 +2017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3827-implement-router](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
 |  |
@@ -2379,6 +2382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2434-design-a-number-container-system](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2434-design-a-number-container-system) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [3516-design-neighbor-sum-service](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3516-design-neighbor-sum-service) |
+| [3827-implement-router](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3827-implement-router) |
 ## Graph
 |  |
 | ------- |
@@ -2602,6 +2606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2868-continuous-subarrays) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3209-minimum-number-of-coins-for-fruits) |
+| [3827-implement-router](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3827-implement-router) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -2815,6 +2820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2434-design-a-number-container-system](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2868-continuous-subarrays) |
 | [3791-fruits-into-baskets-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3827-implement-router) |
 ## Counting Sort
 |  |
 | ------- |
