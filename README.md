@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0713-subarray-product-less-than-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0567-permutation-in-string) |
+| [0611-valid-triangle-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0680-valid-palindrome-ii) |
@@ -1415,6 +1418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0502-ipo) |
 | [0561-array-partition](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0561-array-partition) |
+| [0611-valid-triangle-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0646-maximum-length-of-pair-chain) |
@@ -1687,6 +1691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
