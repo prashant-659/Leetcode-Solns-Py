@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0787-sliding-puzzle) |
 | [0805-escape-the-ghosts](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0805-escape-the-ghosts) |
 | [0816-design-hashset](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0816-design-hashset) |
+| [0830-largest-triangle-area](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0830-largest-triangle-area) |
 | [0831-largest-sum-of-averages](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0831-largest-sum-of-averages) |
 | [0835-linked-list-components](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0835-linked-list-components) |
 | [0854-making-a-large-island](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0854-making-a-large-island) |
@@ -1592,6 +1593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0679-24-game) |
 | [0795-k-th-symbol-in-grammar](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0795-k-th-symbol-in-grammar) |
 | [0805-escape-the-ghosts](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0805-escape-the-ghosts) |
+| [0830-largest-triangle-area](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0900-reordered-power-of-2) |
 | [0909-stone-game](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0909-stone-game) |
 | [1010-powerful-integers](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1010-powerful-integers) |
@@ -2643,6 +2645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0223-rectangle-area](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0223-rectangle-area) |
 | [0593-valid-square](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0593-valid-square) |
+| [0830-largest-triangle-area](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0830-largest-triangle-area) |
 | [1014-k-closest-points-to-origin](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1014-k-closest-points-to-origin) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1395-minimum-time-visiting-all-points](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1395-minimum-time-visiting-all-points) |
