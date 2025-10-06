@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0753-open-the-lock](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0753-open-the-lock) |
 | [0780-max-chunks-to-make-sorted](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0787-sliding-puzzle) |
+| [0794-swim-in-rising-water](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0794-swim-in-rising-water) |
 | [0805-escape-the-ghosts](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0805-escape-the-ghosts) |
 | [0816-design-hashset](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0816-design-hashset) |
 | [0830-largest-triangle-area](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0830-largest-triangle-area) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0732-my-calendar-iii) |
+| [0794-swim-in-rising-water](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0794-swim-in-rising-water) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0907-koko-eating-bananas) |
@@ -961,6 +963,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0744-network-delay-time) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0794-swim-in-rising-water](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -1053,6 +1056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0744-network-delay-time) |
 | [0753-open-the-lock](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0753-open-the-lock) |
 | [0787-sliding-puzzle](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0787-sliding-puzzle) |
+| [0794-swim-in-rising-water](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -2078,6 +2082,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0692-top-k-frequent-words) |
 | [0744-network-delay-time](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0794-swim-in-rising-water](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0948-sort-an-array) |
@@ -2215,6 +2220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0498-diagonal-traverse) |
 | [0695-max-area-of-island](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0695-max-area-of-island) |
 | [0787-sliding-puzzle](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0787-sliding-puzzle) |
+| [0794-swim-in-rising-water](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0854-making-a-large-island) |
 | [0898-transpose-matrix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0898-transpose-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0967-minimum-falling-path-sum) |
@@ -2490,6 +2496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/0984-most-stones-removed-with-same-row-or-column) |
