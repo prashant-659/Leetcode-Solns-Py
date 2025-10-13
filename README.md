@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1370-count-number-of-nice-subarrays) |
 | [1395-minimum-time-visiting-all-points](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1395-minimum-time-visiting-all-points) |
@@ -712,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1304-longest-happy-string) |
 | [1321-get-equal-substrings-within-budget](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1321-get-equal-substrings-within-budget) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1397-search-suggestions-system](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1397-search-suggestions-system) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -1737,6 +1739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1222-remove-covered-intervals](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1256-rank-transform-of-an-array) |
 | [1272-invalid-transactions](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1272-invalid-transactions) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1397-search-suggestions-system](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1397-search-suggestions-system) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -1959,6 +1962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1256-rank-transform-of-an-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1272-invalid-transactions](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1272-invalid-transactions) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1370-count-number-of-nice-subarrays) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
