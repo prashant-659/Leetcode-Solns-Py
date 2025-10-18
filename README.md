@@ -443,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3639-zero-array-transformation-i) |
@@ -1507,6 +1508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3647-zero-array-transformation-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3647-zero-array-transformation-iii) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -1799,6 +1801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3430-count-days-without-meetings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3430-count-days-without-meetings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3647-zero-array-transformation-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3712-minimum-cost-to-make-arrays-identical) |
