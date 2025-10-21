@@ -444,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3639-zero-array-transformation-i) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3643-zero-array-transformation-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3643-zero-array-transformation-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3827-implement-router) |
@@ -1802,6 +1804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3647-zero-array-transformation-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3712-minimum-cost-to-make-arrays-identical) |
@@ -2406,6 +2409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-special-array-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3427-special-array-ii) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3618-find-the-original-typed-string-ii) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3647-zero-array-transformation-iii) |
@@ -2588,6 +2592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Merge Sort
