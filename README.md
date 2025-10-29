@@ -1431,6 +1431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Greedy
@@ -1696,6 +1697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3714-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
