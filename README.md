@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1656-count-good-triplets](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1677-matrix-diagonal-sum) |
@@ -1290,6 +1291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1522-stone-game-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1522-stone-game-iii) |
 | [1628-count-submatrices-with-all-ones](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -1476,6 +1478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1612-avoid-flood-in-the-city](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1612-avoid-flood-in-the-city) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -1861,6 +1864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-build-an-array-with-stack-operations](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1628-count-submatrices-with-all-ones) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -1898,6 +1902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1628-count-submatrices-with-all-ones) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [3001-apply-operations-to-maximize-score](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
