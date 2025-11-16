@@ -749,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-rearrange-words-in-a-sentence](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1647-can-convert-string-in-k-moves](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1647-can-convert-string-in-k-moves) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1668,6 +1669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1522-stone-game-iii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1522-stone-game-iii) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1642-water-bottles) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
