@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1370-count-number-of-nice-subarrays) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1395-minimum-time-visiting-all-points](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1395-minimum-time-visiting-all-points) |
 | [1396-count-servers-that-communicate](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1396-count-servers-that-communicate) |
 | [1397-search-suggestions-system](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1397-search-suggestions-system) |
@@ -1295,6 +1296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1224-minimum-falling-path-sum-ii](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1236-n-th-tribonacci-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1250-longest-common-subsequence) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1488-sort-integers-by-the-power-value](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1488-sort-integers-by-the-power-value) |
@@ -1485,6 +1487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-two-city-scheduling](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1095-two-city-scheduling) |
 | [1285-balance-a-binary-search-tree](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1285-balance-a-binary-search-tree) |
 | [1304-longest-happy-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1304-longest-happy-string) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1448-maximum-69-number](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -1782,6 +1785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1256-rank-transform-of-an-array) |
 | [1272-invalid-transactions](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1272-invalid-transactions) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1397-search-suggestions-system](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1397-search-suggestions-system) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/1468-check-if-n-and-its-double-exist) |
