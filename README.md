@@ -481,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
+| [3886-count-number-of-trapezoids-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3886-count-number-of-trapezoids-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -1730,6 +1731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
+| [3886-count-number-of-trapezoids-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3886-count-number-of-trapezoids-i) |
 ## Sorting
 |  |
 | ------- |
@@ -2122,6 +2124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3827-implement-router](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3886-count-number-of-trapezoids-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3886-count-number-of-trapezoids-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -2761,6 +2764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2332-count-lattice-points-inside-a-circle](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3886-count-number-of-trapezoids-i](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/3886-count-number-of-trapezoids-i) |
 ## Doubly-Linked List
 |  |
 | ------- |
