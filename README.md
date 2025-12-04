@@ -791,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2286-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2286-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2300-construct-string-with-repeat-limit) |
+| [2317-count-collisions-on-a-road](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2317-count-collisions-on-a-road) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2326-sum-of-scores-of-built-strings) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -1371,6 +1372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2317-count-collisions-on-a-road](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2317-count-collisions-on-a-road) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2411-spiral-matrix-iv](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2411-spiral-matrix-iv) |
@@ -1899,6 +1901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2317-count-collisions-on-a-road](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2317-count-collisions-on-a-road) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/prashant-659/Leetcode-Solns-Py/tree/master/2736-minimum-additions-to-make-valid-string) |
